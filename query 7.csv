@@ -1,0 +1,4 @@
+usage_group,respondents_with_stress,avg_stress_score,high_stress_rate_pct,avg_mental_health_index
+Low,1500,8.68,1.00,89.86
+Medium,1500,12.44,6.67,82.45
+High,1500,19.43,45.27,67.31

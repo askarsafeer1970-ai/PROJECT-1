@@ -1,0 +1,4 @@
+usage_band,respondents_with_gpa,avg_gpa,usage_gpa_correlation
+"Under 3 hours",762,3.72,-0.2
+"3 to under 6 hours",2319,3.53,-0.31
+"6+ hours",1419,3.1,-0.615

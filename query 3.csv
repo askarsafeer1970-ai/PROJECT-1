@@ -1,0 +1,4 @@
+usage_group,respondents,avg_daily_usage_hours,min_hours,max_hours
+Low,1500,2.87,0.9,3.8
+Medium,1500,4.76,3.8,5.8
+High,1500,8.26,5.8,14

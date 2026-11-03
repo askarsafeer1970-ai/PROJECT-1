@@ -1,0 +1,4 @@
+usage_band,respondents,avg_sleep_hours,avg_sleep_quality_score,poor_sleep_rate_pct,late_night_use_rate_pct
+"Under 3 hours",762,7.67,3.41,11.94,0.00
+"3 to under 6 hours",2319,7,2.71,39.07,0.00
+"6+ hours",1419,5.69,1.58,87.95,0.00

@@ -1,0 +1,25 @@
+age_group,gender,academic_level,respondents,avg_daily_usage_hours,avg_sleep_hours,avg_sleep_quality,avg_stress,avg_mental_health_index,avg_gpa
+18-22,Female,"High School",119,5.23,6.76,2.52,12.74,80.95,3.43
+18-22,Female,Postgraduate,62,5.2,6.67,2.50,13.71,79.98,3.43
+18-22,Female,Undergraduate,1347,5.28,6.7,2.47,13.33,79.77,3.43
+18-22,Male,"High School",129,5.13,6.58,2.41,14.04,80.77,3.43
+18-22,Male,Postgraduate,53,5.43,6.72,2.55,13.64,79.66,3.41
+18-22,Male,Undergraduate,1233,5.27,6.73,2.50,13.65,79.88,3.43
+18-22,Non-Binary,"High School",7,5.2,6.71,2.86,10.14,80.71,3.53
+18-22,Non-Binary,Postgraduate,5,4.42,6.54,2.60,11.80,80.80,3.52
+18-22,Non-Binary,Undergraduate,71,5.58,6.64,2.51,15.23,78.20,3.43
+18-22,"Prefer not to say","High School",2,2.85,6.95,3.00,6.50,96.50,3.72
+18-22,"Prefer not to say",Postgraduate,2,3.8,7.35,3.50,3.50,85.00,3.68
+18-22,"Prefer not to say",Undergraduate,64,5.59,6.64,2.28,13.78,78.14,3.42
+23+,Female,Postgraduate,59,4.76,6.84,2.56,12.83,81.85,3.55
+23+,Female,Undergraduate,35,5.63,6.41,2.26,13.54,77.69,3.35
+23+,Male,Postgraduate,60,5.41,6.67,2.43,13.17,80.75,3.46
+23+,Male,Undergraduate,22,5.15,6.55,2.82,13.77,79.68,3.46
+23+,Non-Binary,Postgraduate,4,3.53,7.65,3.50,9.50,89.00,3.62
+23+,Non-Binary,Undergraduate,3,3.57,7.57,3.33,9.00,81.67,3.56
+23+,"Prefer not to say",Postgraduate,1,5.3,6.3,2.00,14.00,83.00,3.5
+23+,"Prefer not to say",Undergraduate,2,3.85,7.9,3.00,7.00,87.00,3.49
+"Under 18",Female,"High School",612,5.48,6.65,2.40,13.69,79.41,3.41
+"Under 18",Male,"High School",554,5.22,6.73,2.48,13.48,80.32,3.44
+"Under 18",Non-Binary,"High School",32,5.58,6.52,2.22,14.91,78.97,3.5
+"Under 18","Prefer not to say","High School",22,5.21,6.42,2.32,13.23,79.55,3.38

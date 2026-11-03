@@ -1,0 +1,901 @@
+Age,Gender,Academic_Level,Primary_Platform,Daily_Usage_Hours,Weekend_Extra_Hours,Device_Type,Sleep_Duration_Hours,Sleep_Quality_Score,Late_Night_Usage,Social_Comparison_Frequency,Perceived_Stress_Score,Mental_Health_Index,Academic_Performance_GPA,Actual,Predicted
+16,Male,High School,Instagram,5.0,2.5,Smartphone,6.1,2,False,Sometimes,16.0,66,3.02,Beneficial,Beneficial
+17,Female,High School,Instagram,4.8,1.7,Laptop/PC,6.3,3,True,Sometimes,15.0,81,3.6,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,6.4,2.1,Smartphone,7.2,2,True,Always,12.0,80,2.83,Beneficial,Beneficial
+22,Male,Postgraduate,Instagram,7.5,1.9,Smartphone,5.4,2,True,Frequently,29.0,64,2.68,Neutral,Neutral
+17,Male,High School,Instagram,2.9,2.1,Tablet,7.6,3,False,Sometimes,6.0,93,3.65,Beneficial,Beneficial
+17,Female,High School,TikTok,5.3,2.2,Smartphone,6.5,3,True,Frequently,13.0,82,3.02,Beneficial,Beneficial
+21,Male,Undergraduate,X (Twitter),2.0,1.3,Smartphone,7.5,4,False,Sometimes,3.0,84,3.83,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,2.3,2.7,Smartphone,8.0,5,False,Sometimes,7.0,93,3.88,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,4.3,1.4,Smartphone,8.1,3,False,Frequently,2.0,95,3.37,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,3.3,1.4,Smartphone,7.1,3,False,Sometimes,10.0,87,3.54,Beneficial,Beneficial
+15,Female,High School,Instagram,7.0,1.5,Smartphone,5.8,2,True,Rarely,20.0,65,3.12,Neutral,Neutral
+16,Non-Binary,High School,YouTube,3.8,2.6,Smartphone,5.5,2,False,Frequently,8.0,90,3.97,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,5.4,0.6,Smartphone,6.6,2,True,Sometimes,13.0,82,3.5,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,1.9,1.7,Smartphone,8.0,4,False,Always,11.0,92,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,5.6,1.5,Smartphone,7.0,2,True,Sometimes,17.0,87,3.58,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,3.2,3.0,Smartphone,6.4,2,False,Rarely,11.0,74,3.4292819932049827,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,3.2,2.0,Smartphone,7.2,4,False,Never,9.0,80,3.83,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,2.9,1.4,Tablet,7.0,3,False,Frequently,13.0,90,3.64,Beneficial,Beneficial
+19,Female,Undergraduate,Snapchat,4.3,1.9,Smartphone,7.9,3,False,Always,13.0,87,4.0,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.7,2.0,Smartphone,7.2,3,True,Rarely,15.0,70,3.96,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,7.0,2.3,Smartphone,6.3,3,True,Sometimes,13.0,60,3.48,Beneficial,Beneficial
+17,Male,High School,X (Twitter),3.3,2.0,Smartphone,7.6,4,False,Sometimes,8.0,94,3.64,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,6.3,2.5,Smartphone,5.8,2,True,Sometimes,17.0,71,3.47,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.1,1.8,Smartphone,7.4,2,True,Sometimes,13.0,79,3.37,Beneficial,Beneficial
+17,Male,High School,Snapchat,6.7,1.8,Laptop/PC,6.5,2,True,Sometimes,12.0,89,3.32,Beneficial,Beneficial
+16,Male,High School,YouTube,4.0,1.9,Smartphone,7.4,3,True,Rarely,12.0,93,3.78,Beneficial,Beneficial
+19,Prefer not to say,Undergraduate,Instagram,5.4,1.8,Smartphone,6.2,2,True,Frequently,15.0,80,3.42,Beneficial,Beneficial
+20,Male,Undergraduate,LinkedIn,5.1,2.0,Smartphone,5.5,1,True,Sometimes,21.0,77,3.26,Beneficial,Neutral
+19,Male,Undergraduate,Instagram,3.4,1.5,Smartphone,7.1,4,False,Sometimes,8.0,87,3.49,Beneficial,Beneficial
+16,Female,High School,TikTok,11.7,2.3,Smartphone,5.4,1,True,Sometimes,27.0,53,2.88,Neutral,Neutral
+17,Male,High School,TikTok,3.4,2.1,Laptop/PC,7.7,4,False,Sometimes,2.0,91,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,6.9,1.0,Smartphone,8.1,1,True,Sometimes,18.0,77,3.53,Beneficial,Beneficial
+22,Female,Undergraduate,TikTok,7.1,2.1,Smartphone,6.0,2,True,Always,18.0,73,2.74,Neutral,Neutral
+19,Female,Undergraduate,TikTok,5.5,1.0,Smartphone,6.4,1,True,Rarely,13.0,85,3.04,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,12.5,1.6,Smartphone,3.6,1,True,Frequently,32.0,49,2.59,Negative,Negative
+17,Female,High School,Instagram,2.6,3.1,Laptop/PC,8.6,2,True,Sometimes,1.0,83,4.0,Beneficial,Beneficial
+21,Female,Undergraduate,YouTube,5.1,2.4,Smartphone,7.2,3,False,Frequently,14.0,87,3.28,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,4.4,1.1,Tablet,6.5,3,False,Always,17.0,77,3.02,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,6.2,2.4,Smartphone,7.4,3,True,Frequently,15.0,85,3.4292819932049827,Beneficial,Beneficial
+16,Male,High School,Snapchat,4.4,2.7,Smartphone,7.3,2,False,Sometimes,10.0,81,3.99,Beneficial,Beneficial
+22,Male,Postgraduate,YouTube,5.7,2.2,Smartphone,6.9,1,True,Frequently,4.0,83,3.17,Beneficial,Beneficial
+21,Male,Undergraduate,TikTok,4.9,2.6,Smartphone,5.5,2,True,Always,12.0,77,3.27,Beneficial,Beneficial
+17,Male,High School,TikTok,3.9,2.2,Smartphone,7.9,3,True,Sometimes,9.0,92,3.84,Beneficial,Beneficial
+19,Non-Binary,Undergraduate,Reddit,2.5,2.6,Smartphone,8.0,2,False,Frequently,10.0,89,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,3.2,3.7,Smartphone,6.3,3,True,Rarely,11.0,81,3.43,Beneficial,Beneficial
+17,Non-Binary,High School,YouTube,12.5,3.3,Smartphone,4.7,1,True,Frequently,21.0,54,2.57,Neutral,Neutral
+18,Male,Undergraduate,Instagram,2.7,2.2,Smartphone,5.4,2,False,Rarely,19.0,87,3.78,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,8.5,1.4,Smartphone,4.7,1,True,Frequently,24.0,63,2.88,Neutral,Neutral
+19,Female,Undergraduate,Instagram,9.2,1.3,Smartphone,5.3,2,True,Never,20.0,67,2.8,Neutral,Neutral
+18,Male,Undergraduate,TikTok,4.0,1.5,Smartphone,6.6,3,True,Rarely,10.0,78,3.84,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,3.9,2.1,Smartphone,6.4,2,False,Frequently,11.0,87,2.82,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,13.4,1.8,Smartphone,4.2,1,True,Never,29.0,47,2.72,Negative,Negative
+20,Male,Undergraduate,Instagram,6.1,1.9,Smartphone,7.6,3,True,Frequently,14.0,79,3.65,Beneficial,Beneficial
+17,Male,High School,Instagram,7.0,0.8,Smartphone,6.7,2,True,Frequently,21.0,68,3.55,Beneficial,Beneficial
+16,Female,High School,Instagram,4.8,1.7,Smartphone,7.3,2,False,Rarely,10.0,87,3.67,Beneficial,Beneficial
+15,Male,High School,X (Twitter),4.2,1.2,Smartphone,8.0,4,True,Always,8.0,87,3.99,Beneficial,Beneficial
+21,Male,Undergraduate,YouTube,7.1,1.8,Smartphone,5.5,1,True,Rarely,11.0,70,3.2,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,3.0,1.8,Smartphone,7.3,3,False,Sometimes,4.0,88,4.0,Beneficial,Beneficial
+16,Female,High School,TikTok,1.9,2.1,Tablet,7.8,4,False,Sometimes,11.0,79,3.56,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,7.6,2.3,Smartphone,6.5,3,True,Always,19.0,69,3.37,Beneficial,Beneficial
+18,Non-Binary,Undergraduate,Instagram,4.8,1.1,Smartphone,5.6,1,True,Frequently,14.0,70,3.38,Beneficial,Beneficial
+17,Female,High School,Instagram,5.1,1.4,Smartphone,6.2,2,True,Sometimes,18.0,75,3.51,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,4.8,2.1,Smartphone,5.6,3,True,Never,6.0,78,3.53,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,10.8,1.4,Smartphone,5.2,1,False,Rarely,29.0,55,3.1,Neutral,Neutral
+18,Female,Undergraduate,Snapchat,11.0,1.2,Smartphone,5.6,1,True,Frequently,25.0,62,3.65,Neutral,Neutral
+20,Female,Undergraduate,Instagram,3.8,1.8,Smartphone,7.4,3,False,Rarely,11.0,92,3.7,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,2.9,1.9,Smartphone,7.5,3,False,Never,12.0,88,3.63,Beneficial,Beneficial
+17,Female,High School,Instagram,4.4,3.1,Smartphone,7.4,3,True,Rarely,11.0,84,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,4.6,1.5,Smartphone,7.8,3,True,Frequently,3.0,80,3.84,Beneficial,Beneficial
+15,Female,High School,Snapchat,3.9,0.5,Smartphone,7.6,3,False,Frequently,13.0,90,3.58,Beneficial,Beneficial
+16,Female,High School,YouTube,14.0,2.2,Smartphone,4.6,1,True,Always,31.0,55,2.46,Negative,Negative
+20,Female,Undergraduate,TikTok,5.6,2.5,Smartphone,8.2,3,True,Sometimes,17.0,81,2.96,Beneficial,Beneficial
+15,Female,High School,Instagram,4.8,2.3,Smartphone,5.9,3,True,Sometimes,14.0,81,2.71,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,2.9,1.4,Laptop/PC,8.3,4,True,Always,11.0,98,3.43,Beneficial,Beneficial
+17,Female,High School,YouTube,3.5,2.9,Smartphone,7.0,3,False,Sometimes,14.0,86,3.42,Beneficial,Beneficial
+22,Male,Undergraduate,TikTok,7.5,2.0,Smartphone,5.1,2,True,Frequently,15.0,63,3.43,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,4.2,0.5,Laptop/PC,6.9,4,False,Always,4.0,84,3.63,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,4.9,1.2,Smartphone,6.1,2,False,Sometimes,13.512123933542883,75,3.37,Beneficial,Beneficial
+23,Female,Postgraduate,Reddit,4.4,1.8,Laptop/PC,9.1,3,False,Frequently,19.0,87,3.91,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,7.3,1.7,Smartphone,4.2,1,True,Sometimes,19.0,64,2.91,Neutral,Neutral
+20,Female,High School,TikTok,4.3,2.5,Smartphone,6.3,3,True,Sometimes,12.0,73,3.71,Beneficial,Beneficial
+20,Male,Undergraduate,X (Twitter),7.0,2.3,Smartphone,7.4,2,True,Sometimes,15.0,74,3.49,Beneficial,Beneficial
+17,Female,High School,YouTube,4.7,2.6,Smartphone,6.7,3,False,Always,9.0,88,3.42,Beneficial,Beneficial
+15,Female,High School,YouTube,4.3,2.7,Smartphone,7.9,4,False,Always,8.0,98,3.32,Beneficial,Beneficial
+17,Female,High School,TikTok,2.3,1.4,Smartphone,7.1,3,False,Always,1.0,98,4.0,Beneficial,Beneficial
+22,Female,Postgraduate,YouTube,3.2,0.4,Smartphone,8.1,4,False,Frequently,6.0,98,3.88,Beneficial,Beneficial
+18,Male,Undergraduate,LinkedIn,2.5,1.4,Smartphone,7.3,3,True,Sometimes,3.0,86,3.97,Beneficial,Beneficial
+21,Male,Undergraduate,TikTok,8.4,0.4,Smartphone,6.3,2,True,Frequently,22.0,63,3.05,Neutral,Neutral
+21,Male,Undergraduate,YouTube,4.8,2.5,Smartphone,6.1,2,False,Rarely,8.0,87,2.99,Beneficial,Beneficial
+21,Female,Undergraduate,Instagram,10.0,1.4,Smartphone,3.8,1,True,Rarely,36.0,34,2.65,Negative,Negative
+20,Non-Binary,High School,TikTok,4.4,1.0,Smartphone,6.8,3,True,Always,7.0,87,3.88,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,6.6,1.8,Laptop/PC,6.6,1,True,Always,27.0,73,3.4292819932049827,Neutral,Neutral
+16,Male,High School,LinkedIn,2.5,1.8,Smartphone,9.5,5,True,Always,1.0,94,3.4292819932049827,Beneficial,Beneficial
+22,Male,Undergraduate,TikTok,2.8,2.4,Smartphone,7.6,3,False,Sometimes,10.0,98,3.82,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,4.2,2.3,Smartphone,6.2,3,False,Rarely,16.0,87,3.23,Beneficial,Beneficial
+20,Male,High School,Instagram,3.9,1.3,Smartphone,6.0,2,False,Always,13.0,76,3.07,Beneficial,Beneficial
+18,Prefer not to say,Undergraduate,TikTok,1.6,1.2,Smartphone,7.3,4,False,Frequently,10.0,94,3.28,Beneficial,Beneficial
+21,Female,Undergraduate,X (Twitter),4.3,1.1,Smartphone,7.3,4,False,Never,12.0,84,3.32,Beneficial,Beneficial
+16,Non-Binary,High School,Instagram,9.8,1.9,Smartphone,4.8,1,True,Sometimes,17.0,60,3.02,Neutral,Neutral
+25,Male,Undergraduate,Instagram,2.5,1.9,Laptop/PC,8.6,4,False,Always,7.0,94,3.48,Beneficial,Beneficial
+17,Male,High School,YouTube,3.6,1.5,Smartphone,7.6,3,False,Rarely,4.0,98,4.0,Beneficial,Beneficial
+18,Non-Binary,Undergraduate,TikTok,5.9,2.3,Laptop/PC,6.7,3,False,Frequently,15.0,76,3.35,Beneficial,Beneficial
+21,Female,Undergraduate,Instagram,3.0,2.4,Smartphone,7.2,3,True,Frequently,12.0,79,3.4,Beneficial,Beneficial
+16,Female,High School,TikTok,3.4,0.8,Smartphone,6.1,2,False,Never,14.0,86,3.78,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,4.0,3.2,Smartphone,6.7,3,True,Always,11.0,94,3.78,Beneficial,Beneficial
+17,Female,High School,Instagram,4.0,2.7,Smartphone,7.0,4,True,Rarely,15.0,84,3.66,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,11.3,1.7,Smartphone,5.3,1,True,Sometimes,27.0,57,2.74,Neutral,Neutral
+17,Male,High School,TikTok,3.2,1.8,Smartphone,7.4,3,False,Sometimes,11.0,76,3.66,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,3.2,1.9,Smartphone,7.3,3,False,Frequently,4.0,90,3.33,Beneficial,Beneficial
+16,Non-Binary,High School,TikTok,3.6,1.0,Smartphone,6.4,3,False,Sometimes,19.0,86,3.69,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,2.8,1.0,Smartphone,8.3,3,True,Always,7.0,98,3.46,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,5.6,1.8,Smartphone,8.3,3,False,Sometimes,10.0,88,3.72,Beneficial,Beneficial
+15,Female,High School,TikTok,2.8,3.4,Smartphone,6.3,3,False,Frequently,7.0,83,3.58,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,4.0,1.6,Tablet,7.7,3,False,Sometimes,9.0,86,3.4292819932049827,Beneficial,Beneficial
+17,Non-Binary,High School,TikTok,11.1,2.1,Smartphone,6.1,1,True,Never,26.0,57,2.88,Neutral,Neutral
+15,Male,High School,TikTok,4.4,1.8,Laptop/PC,6.1,2,False,Frequently,13.0,79,3.48,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,9.2,3.2,Smartphone,6.4,2,False,Always,21.0,65,2.72,Neutral,Neutral
+21,Male,Undergraduate,Instagram,6.2,0.4,Smartphone,7.2,2,True,Rarely,12.0,80,3.35,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,7.5,1.7,Smartphone,6.6,2,True,Frequently,10.0,65,2.98,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,3.4,1.3,Smartphone,8.6,4,False,Frequently,1.0,90,4.0,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,5.3,1.9,Laptop/PC,6.4,3,True,Rarely,18.0,86,3.02,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,5.9,2.0,Smartphone,7.4,3,False,Sometimes,12.0,85,3.61,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,2.9,1.4,Smartphone,7.1,2,True,Frequently,11.0,85,3.59,Beneficial,Beneficial
+17,Female,High School,Instagram,2.3,1.1,Smartphone,7.3,2,False,Never,10.0,84,3.86,Beneficial,Beneficial
+17,Male,High School,Instagram,3.7,1.4,Smartphone,7.2,4,False,Rarely,19.0,76,3.85,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,4.8,2.8,Smartphone,5.9,3,True,Sometimes,10.0,76,2.95,Beneficial,Beneficial
+17,Male,High School,Instagram,7.9,1.5,Laptop/PC,5.2,1,False,Frequently,28.0,60,3.45,Neutral,Neutral
+17,Male,High School,Snapchat,4.3,2.0,Laptop/PC,5.5,2,True,Frequently,12.0,79,3.63,Beneficial,Beneficial
+17,Female,High School,Instagram,3.6,3.6,Smartphone,6.5,2,False,Rarely,17.0,85,3.67,Beneficial,Beneficial
+19,Male,Undergraduate,X (Twitter),1.3,2.9,Smartphone,8.2,5,True,Frequently,0.0,95,4.0,Beneficial,Beneficial
+23,Female,Undergraduate,Instagram,13.4,2.5,Smartphone,3.7,1,True,Never,28.0,49,3.05,Neutral,Negative
+18,Female,Undergraduate,TikTok,4.3,1.1,Smartphone,6.8,3,False,Always,12.0,88,3.53,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,14.0,2.2,Smartphone,4.4,1,False,Sometimes,24.0,45,2.83,Neutral,Neutral
+17,Male,High School,Snapchat,4.6,3.4,Smartphone,6.8,3,True,Rarely,8.0,88,3.61,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,4.1,1.4,Smartphone,6.3,2,True,Sometimes,14.0,85,3.5,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,7.8,1.8,Smartphone,5.4,1,True,Frequently,18.0,64,3.32,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,2.8,1.7,Laptop/PC,7.5,3,True,Frequently,13.0,87,3.5,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,4.8,0.0,Smartphone,6.8,4,True,Sometimes,13.0,86,3.67,Beneficial,Beneficial
+15,Male,High School,Instagram,2.8,1.6,Laptop/PC,6.2,2,True,Never,8.0,93,4.0,Beneficial,Beneficial
+17,Female,High School,Instagram,5.5,0.8,Smartphone,7.7,1,False,Sometimes,4.0,89,3.4292819932049827,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,9.8,2.9,Smartphone,4.8,1,True,Frequently,24.0,60,3.32,Neutral,Neutral
+17,Male,High School,Instagram,2.4,2.5,Smartphone,8.1,3,False,Always,8.0,89,3.94,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,8.3,3.0,Smartphone,5.6,2,False,Rarely,22.0,69,3.31,Neutral,Neutral
+19,Female,Undergraduate,Instagram,2.4,2.4,Laptop/PC,6.5,2,False,Always,16.0,84,3.74,Beneficial,Beneficial
+19,Female,High School,Instagram,6.2,1.9,Smartphone,6.9,2,True,Sometimes,6.0,90,3.29,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,6.0,2.3,Smartphone,6.2,2,False,Frequently,14.0,76,2.94,Beneficial,Beneficial
+17,Male,High School,TikTok,3.8,2.3,Smartphone,8.6,2,False,Rarely,10.0,81,3.3,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,4.4,0.4,Smartphone,6.2,2,False,Sometimes,20.0,86,3.55,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,6.7,2.9,Smartphone,7.0,3,False,Rarely,20.0,74,3.12,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,6.2,1.4,Smartphone,5.6,2,False,Sometimes,13.0,79,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,5.7,2.7,Smartphone,4.8,1,True,Frequently,11.0,76,3.08,Beneficial,Beneficial
+26,Male,Postgraduate,Snapchat,3.6,2.0,Smartphone,7.4,2,True,Sometimes,13.0,91,3.6,Beneficial,Beneficial
+26,Male,Postgraduate,YouTube,9.2,1.5,Smartphone,4.8,1,True,Sometimes,13.512123933542883,68,2.83,Neutral,Beneficial
+19,Female,Undergraduate,TikTok,4.7,1.2,Laptop/PC,6.8,3,False,Sometimes,13.0,81,3.34,Beneficial,Beneficial
+16,Female,High School,Instagram,2.8,1.2,Smartphone,7.9,4,False,Rarely,3.0,98,3.77,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,4.2,1.4,Smartphone,8.2,4,False,Sometimes,6.0,97,3.95,Beneficial,Beneficial
+16,Male,High School,TikTok,4.4,1.9,Smartphone,7.6,3,True,Always,15.0,92,3.86,Beneficial,Beneficial
+17,Male,High School,X (Twitter),2.4,2.7,Smartphone,6.6,3,False,Always,8.0,91,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,3.1,2.6,Smartphone,8.1,3,False,Rarely,14.0,89,3.03,Beneficial,Beneficial
+15,Male,High School,Instagram,2.5,2.2,Laptop/PC,6.3,3,False,Sometimes,6.0,91,3.66,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,5.7,2.9,Smartphone,7.6,3,True,Always,14.0,89,2.97,Beneficial,Beneficial
+17,Male,High School,Instagram,1.3,1.5,Smartphone,8.1,4,True,Sometimes,16.0,95,3.7,Beneficial,Beneficial
+16,Male,High School,TikTok,3.4,1.5,Smartphone,7.8,3,True,Frequently,15.0,98,3.95,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.5,2.9,Smartphone,6.9,2,True,Sometimes,10.0,85,3.26,Beneficial,Beneficial
+22,Male,Postgraduate,Snapchat,2.8,1.5,Smartphone,7.3,4,False,Frequently,6.0,94,3.46,Beneficial,Beneficial
+20,Female,Undergraduate,X (Twitter),8.7,2.0,Smartphone,6.9,2,True,Frequently,23.0,76,2.45,Neutral,Neutral
+19,Female,Undergraduate,TikTok,5.0,2.4,Smartphone,7.0,2,True,Always,4.0,80,3.53,Beneficial,Beneficial
+26,Male,Undergraduate,TikTok,5.1,0.7,Smartphone,7.2,4,True,Frequently,7.0,85,4.0,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,2.3,2.4,Smartphone,7.4,3,False,Sometimes,0.0,95,3.7,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,4.7,2.2,Smartphone,7.0,2,False,Always,14.0,80,3.41,Beneficial,Beneficial
+17,Female,High School,X (Twitter),7.1,0.9,Smartphone,7.2,2,True,Frequently,13.0,81,3.62,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,6.9,3.0,Smartphone,6.2,2,False,Frequently,8.0,77,3.15,Beneficial,Beneficial
+21,Male,High School,TikTok,1.5,2.6,Smartphone,8.1,4,True,Rarely,6.0,97,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,4.1,0.0,Smartphone,6.7,4,False,Rarely,16.0,84,3.78,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,3.9,1.5,Smartphone,7.2,3,True,Sometimes,6.0,86,3.84,Beneficial,Beneficial
+19,Male,Undergraduate,Reddit,8.0,2.9,Smartphone,5.1,2,False,Sometimes,28.0,68,3.64,Neutral,Neutral
+23,Female,Undergraduate,Instagram,4.5,2.4,Smartphone,7.5,3,True,Sometimes,13.0,88,2.94,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,4.6,2.5,Smartphone,6.2,3,True,Sometimes,12.0,90,3.35,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,7.3,1.5,Smartphone,6.2,2,True,Sometimes,13.0,64,3.13,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,8.7,1.8,Laptop/PC,5.0,2,True,Frequently,24.0,68,3.14,Neutral,Neutral
+19,Male,Undergraduate,Snapchat,8.1,2.5,Smartphone,6.8,2,False,Always,13.0,74,3.37,Beneficial,Beneficial
+19,Female,Undergraduate,Snapchat,3.7,2.9,Smartphone,8.0,3,False,Sometimes,4.0,86,3.61,Beneficial,Beneficial
+24,Female,Undergraduate,Instagram,2.6,2.4,Smartphone,6.9,3,False,Frequently,6.0,97,3.73,Beneficial,Beneficial
+18,Male,High School,YouTube,9.0,1.0,Laptop/PC,4.7,1,True,Rarely,20.0,60,3.16,Neutral,Neutral
+25,Male,Postgraduate,Instagram,3.5,2.7,Smartphone,6.3,3,True,Sometimes,10.0,85,3.54,Beneficial,Beneficial
+16,Male,High School,TikTok,9.4,1.6,Laptop/PC,4.4,1,True,Sometimes,19.0,67,3.32,Beneficial,Neutral
+18,Female,High School,Instagram,5.3,1.9,Smartphone,8.1,3,True,Sometimes,12.0,80,3.88,Beneficial,Beneficial
+15,Female,High School,YouTube,11.1,3.0,Laptop/PC,4.8,1,False,Frequently,17.0,58,2.67,Neutral,Neutral
+19,Female,Undergraduate,Reddit,3.1,2.2,Smartphone,8.9,3,False,Frequently,9.0,98,3.26,Beneficial,Beneficial
+19,Non-Binary,Undergraduate,Snapchat,9.9,1.8,Smartphone,6.1,1,True,Always,27.0,57,2.85,Neutral,Neutral
+22,Female,Undergraduate,TikTok,5.8,2.0,Laptop/PC,5.8,2,True,Sometimes,17.0,75,3.14,Beneficial,Beneficial
+17,Female,High School,Snapchat,2.5,1.6,Smartphone,8.4,3,False,Never,14.0,88,3.57,Beneficial,Beneficial
+19,Male,High School,Instagram,4.7,2.5,Smartphone,5.7,1,True,Sometimes,12.0,76,3.4,Beneficial,Beneficial
+15,Female,High School,Instagram,3.4,2.9,Laptop/PC,6.8,2,False,Frequently,12.0,85,3.96,Beneficial,Beneficial
+17,Female,High School,TikTok,7.4,0.2,Smartphone,5.7,1,False,Rarely,10.0,68,2.94,Beneficial,Beneficial
+20,Male,Undergraduate,X (Twitter),8.0,2.5,Laptop/PC,4.7,2,True,Frequently,21.0,53,3.19,Neutral,Neutral
+18,Female,Undergraduate,Instagram,1.7,1.6,Smartphone,6.0,3,False,Sometimes,5.0,87,3.96,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,3.3,2.2,Smartphone,7.9,3,False,Frequently,0.0,94,4.0,Beneficial,Beneficial
+21,Male,Undergraduate,X (Twitter),2.9,2.1,Smartphone,7.2,3,True,Sometimes,9.0,86,3.92,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,8.3,2.2,Smartphone,6.3,1,True,Sometimes,13.0,76,3.21,Beneficial,Beneficial
+17,Male,High School,Instagram,4.6,2.1,Laptop/PC,7.9,4,False,Sometimes,5.0,89,3.57,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,2.2,2.2,Laptop/PC,8.2,4,False,Frequently,4.0,85,3.56,Beneficial,Beneficial
+16,Female,High School,YouTube,3.5,1.3,Smartphone,6.2,4,False,Rarely,15.0,77,3.44,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,4.6,1.0,Smartphone,7.4,3,False,Frequently,6.0,92,3.78,Beneficial,Beneficial
+16,Male,High School,YouTube,8.8,1.6,Smartphone,6.7,1,True,Sometimes,16.0,67,3.01,Beneficial,Beneficial
+16,Female,High School,Instagram,6.3,1.5,Smartphone,4.7,2,True,Sometimes,24.0,57,2.52,Neutral,Neutral
+18,Female,High School,Instagram,10.0,1.1,Smartphone,5.6,1,False,Frequently,24.0,51,3.09,Neutral,Neutral
+21,Male,Undergraduate,Instagram,6.0,2.6,Smartphone,6.6,2,False,Sometimes,15.0,79,3.94,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,7.5,2.0,Smartphone,6.8,2,False,Sometimes,12.0,71,3.37,Beneficial,Beneficial
+17,Male,High School,YouTube,3.9,1.8,Smartphone,7.6,3,True,Rarely,11.0,84,3.89,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,2.3,0.6,Smartphone,8.1,5,False,Frequently,11.0,98,3.57,Beneficial,Beneficial
+18,Male,High School,TikTok,11.6,0.9,Smartphone,5.1,1,True,Frequently,20.0,68,2.85,Neutral,Neutral
+20,Female,Undergraduate,TikTok,2.4,2.4,Smartphone,9.1,4,True,Frequently,3.0,98,3.88,Beneficial,Beneficial
+15,Male,High School,YouTube,3.1,1.6,Smartphone,6.5,3,True,Always,15.0,84,4.0,Beneficial,Beneficial
+17,Prefer not to say,High School,Instagram,8.8,2.5,Smartphone,6.2,1,True,Frequently,21.0,68,3.5,Beneficial,Neutral
+18,Female,Undergraduate,LinkedIn,7.2,1.2,Smartphone,6.9,3,False,Sometimes,20.0,62,3.3,Neutral,Beneficial
+15,Non-Binary,High School,TikTok,3.0,0.8,Smartphone,6.9,3,False,Rarely,10.0,88,3.88,Beneficial,Beneficial
+15,Female,High School,Instagram,4.3,1.0,Smartphone,6.2,2,True,Frequently,16.0,71,3.36,Beneficial,Beneficial
+17,Female,High School,TikTok,2.9,1.6,Smartphone,6.8,3,True,Rarely,9.0,96,4.0,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,2.8,1.6,Smartphone,7.4,3,False,Sometimes,13.0,87,3.38,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,2.3,2.1,Smartphone,7.9,4,False,Sometimes,12.0,80,3.71,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,3.5,3.0,Smartphone,7.3,3,False,Frequently,6.0,88,3.41,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,2.4,2.6,Smartphone,7.0,2,False,Frequently,3.0,91,3.82,Beneficial,Beneficial
+16,Male,High School,YouTube,3.9,1.1,Smartphone,7.9,3,False,Sometimes,15.0,89,3.43,Beneficial,Beneficial
+21,Female,Undergraduate,YouTube,2.1,0.2,Smartphone,8.3,4,True,Never,12.0,94,3.49,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,8.7,1.7,Smartphone,6.0,1,True,Frequently,19.0,66,2.98,Neutral,Neutral
+21,Male,Undergraduate,Instagram,6.0,0.7,Smartphone,7.0,3,True,Sometimes,9.0,80,3.44,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,4.8,0.7,Smartphone,5.9,3,False,Frequently,15.0,74,3.89,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,3.0,3.2,Laptop/PC,6.7,4,False,Rarely,0.0,98,3.47,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,5.7,1.5,Laptop/PC,6.4,2,True,Rarely,18.0,70,2.94,Neutral,Beneficial
+21,Male,Undergraduate,Instagram,4.1,1.8,Smartphone,7.2,2,True,Never,13.0,98,3.9,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,4.5,1.5,Smartphone,6.9,2,True,Sometimes,9.0,82,3.77,Beneficial,Beneficial
+16,Male,High School,TikTok,5.3,1.5,Smartphone,7.2,3,True,Sometimes,2.0,87,4.0,Beneficial,Beneficial
+16,Non-Binary,High School,Snapchat,3.2,1.9,Smartphone,7.3,3,True,Frequently,14.0,83,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,13.5,1.7,Smartphone,3.8,1,True,Always,31.0,33,3.18,Negative,Negative
+21,Female,Undergraduate,X (Twitter),9.9,2.3,Smartphone,3.5,1,False,Never,22.0,55,2.43,Neutral,Neutral
+19,Female,Undergraduate,YouTube,5.8,2.2,Smartphone,7.0,3,True,Frequently,16.0,80,3.31,Beneficial,Beneficial
+22,Male,Postgraduate,Reddit,4.6,0.0,Smartphone,7.0,3,True,Never,12.0,78,3.61,Beneficial,Beneficial
+23,Female,Postgraduate,TikTok,7.3,0.4,Laptop/PC,5.7,2,True,Sometimes,20.0,69,3.07,Neutral,Neutral
+16,Female,High School,Instagram,5.7,1.1,Smartphone,5.7,2,True,Frequently,21.0,74,3.14,Neutral,Neutral
+21,Male,Undergraduate,Instagram,2.3,1.1,Smartphone,7.2,2,False,Sometimes,6.0,93,3.66,Beneficial,Beneficial
+20,Male,Undergraduate,Snapchat,3.2,1.1,Laptop/PC,6.9,3,False,Never,6.0,91,3.99,Beneficial,Beneficial
+15,Male,High School,TikTok,3.5,1.0,Smartphone,7.6,4,True,Always,8.0,88,3.74,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,4.8,1.7,Laptop/PC,6.5,2,False,Rarely,13.0,81,3.63,Beneficial,Beneficial
+20,Male,High School,TikTok,4.2,2.5,Smartphone,7.9,5,False,Always,10.0,92,3.87,Beneficial,Beneficial
+22,Female,Postgraduate,Instagram,2.1,2.4,Smartphone,8.6,4,True,Sometimes,3.0,93,3.61,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,3.4,2.1,Smartphone,7.9,3,False,Sometimes,8.0,88,3.54,Beneficial,Beneficial
+17,Male,High School,TikTok,2.8,2.3,Smartphone,7.6,3,False,Rarely,3.0,94,3.57,Beneficial,Beneficial
+25,Male,Postgraduate,Instagram,4.9,2.9,Smartphone,5.7,3,True,Sometimes,0.0,78,4.0,Beneficial,Beneficial
+16,Male,High School,TikTok,3.2,2.3,Smartphone,6.4,4,True,Sometimes,19.0,78,3.64,Beneficial,Beneficial
+24,Female,Postgraduate,YouTube,2.8,1.1,Smartphone,7.7,4,False,Sometimes,10.0,94,3.55,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,6.5,2.5,Laptop/PC,7.0,3,True,Always,14.0,82,3.55,Beneficial,Beneficial
+21,Female,Undergraduate,Instagram,3.9,1.9,Smartphone,8.0,3,False,Sometimes,14.0,98,3.58,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,12.8,3.0,Smartphone,6.1,1,True,Sometimes,16.0,56,3.05,Neutral,Neutral
+19,Female,High School,YouTube,2.7,1.3,Smartphone,6.8,3,True,Sometimes,6.0,93,3.72,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,2.0,2.1,Smartphone,7.6,3,True,Always,11.0,87,3.45,Beneficial,Beneficial
+20,Prefer not to say,Undergraduate,Instagram,6.8,2.5,Smartphone,7.0,3,True,Frequently,18.0,71,2.86,Neutral,Beneficial
+16,Female,High School,YouTube,6.0,2.3,Tablet,7.6,4,True,Sometimes,15.0,82,3.42,Beneficial,Beneficial
+18,Male,High School,Snapchat,5.4,2.2,Smartphone,5.8,2,True,Never,18.0,77,3.45,Beneficial,Beneficial
+24,Male,Postgraduate,LinkedIn,4.4,2.8,Tablet,6.6,2,False,Frequently,9.0,75,3.48,Beneficial,Beneficial
+21,Male,Undergraduate,Snapchat,5.2,0.5,Smartphone,7.2,2,True,Frequently,20.0,78,3.09,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,2.5,2.6,Laptop/PC,8.9,4,True,Sometimes,8.0,98,3.81,Beneficial,Beneficial
+20,Female,Undergraduate,Reddit,3.8,0.8,Laptop/PC,6.2,3,True,Frequently,11.0,89,3.4292819932049827,Beneficial,Beneficial
+18,Male,Undergraduate,X (Twitter),8.9,2.0,Smartphone,5.1,1,True,Rarely,17.0,57,3.05,Neutral,Neutral
+22,Male,Undergraduate,TikTok,3.9,2.1,Smartphone,6.8,3,False,Frequently,14.0,83,3.3,Beneficial,Beneficial
+17,Female,High School,YouTube,2.2,1.6,Smartphone,7.7,4,False,Sometimes,6.0,98,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,8.7,2.1,Smartphone,6.5,3,True,Always,20.0,73,2.95,Neutral,Neutral
+19,Male,Undergraduate,Instagram,6.1,2.6,Laptop/PC,6.6,1,True,Sometimes,16.0,79,2.93,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,5.0,0.4,Smartphone,7.1,2,False,Rarely,2.0,80,4.0,Beneficial,Beneficial
+21,Female,High School,YouTube,8.4,2.2,Laptop/PC,5.7,2,True,Sometimes,15.0,64,3.04,Beneficial,Beneficial
+16,Non-Binary,High School,TikTok,2.2,2.4,Smartphone,7.9,3,True,Rarely,5.0,88,4.0,Beneficial,Beneficial
+15,Male,High School,Instagram,14.0,1.2,Smartphone,5.3,1,True,Sometimes,34.0,54,2.74,Negative,Negative
+17,Male,High School,Instagram,3.3,2.1,Smartphone,7.4,3,False,Frequently,4.0,97,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,4.4,2.6,Tablet,7.1,2,False,Sometimes,14.0,82,3.32,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,6.0,1.5,Laptop/PC,5.0,1,True,Sometimes,18.0,66,3.22,Beneficial,Beneficial
+15,Male,High School,Instagram,3.5,0.4,Smartphone,6.6,2,True,Rarely,17.0,81,3.16,Beneficial,Beneficial
+19,Female,Undergraduate,Reddit,3.0,2.6,Tablet,8.3,3,False,Frequently,0.0,98,3.62,Beneficial,Beneficial
+17,Female,High School,X (Twitter),5.2,2.2,Smartphone,6.4,3,True,Frequently,19.0,82,2.61,Beneficial,Neutral
+17,Female,High School,TikTok,2.8,2.1,Smartphone,7.2,3,True,Rarely,5.0,98,3.48,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,3.1,1.0,Smartphone,7.1,4,False,Rarely,13.0,89,3.34,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,2.9,2.4,Smartphone,5.5,1,True,Frequently,15.0,75,3.96,Beneficial,Beneficial
+21,Female,Undergraduate,YouTube,1.2,1.7,Smartphone,6.1,3,False,Frequently,8.0,83,3.91,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,5.1,0.9,Smartphone,6.1,2,True,Frequently,10.0,85,3.27,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,3.4,2.6,Laptop/PC,6.3,3,False,Rarely,8.0,72,3.52,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,4.9,2.9,Smartphone,8.4,3,False,Sometimes,12.0,86,4.0,Beneficial,Beneficial
+17,Male,High School,Instagram,8.5,2.0,Smartphone,5.6,1,True,Sometimes,18.0,72,2.73,Neutral,Neutral
+20,Male,Undergraduate,Instagram,3.7,2.2,Smartphone,7.1,3,False,Always,10.0,85,3.93,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,8.7,2.1,Smartphone,5.5,1,False,Sometimes,21.0,64,2.92,Neutral,Neutral
+18,Female,Undergraduate,Instagram,2.9,2.2,Smartphone,5.5,2,True,Rarely,19.0,81,3.36,Beneficial,Beneficial
+16,Male,High School,YouTube,2.5,1.9,Smartphone,7.1,4,False,Sometimes,8.0,88,3.31,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,3.0,1.5,Smartphone,7.9,3,False,Frequently,8.0,94,3.78,Beneficial,Beneficial
+17,Female,High School,Instagram,3.6,2.2,Smartphone,9.2,4,True,Frequently,13.0,89,3.83,Beneficial,Beneficial
+19,Male,High School,TikTok,4.0,2.4,Smartphone,7.3,3,False,Frequently,7.0,89,3.4292819932049827,Beneficial,Beneficial
+20,Male,Undergraduate,Snapchat,6.0,1.6,Laptop/PC,7.2,2,False,Rarely,18.0,66,3.05,Neutral,Beneficial
+18,Female,Undergraduate,TikTok,8.7,3.1,Smartphone,4.6,1,True,Frequently,30.0,55,3.14,Neutral,Neutral
+20,Female,Undergraduate,X (Twitter),2.1,1.6,Smartphone,7.2,4,False,Always,11.0,78,3.45,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,8.5,1.7,Smartphone,5.4,1,True,Rarely,19.0,73,2.71,Neutral,Neutral
+22,Female,Postgraduate,TikTok,5.6,1.1,Smartphone,7.7,4,True,Always,13.0,82,3.12,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,2.7,3.1,Smartphone,7.7,3,False,Frequently,10.0,96,3.43,Beneficial,Beneficial
+17,Female,High School,TikTok,7.3,1.5,Laptop/PC,7.5,2,True,Frequently,24.0,76,3.21,Neutral,Neutral
+24,Female,Postgraduate,X (Twitter),6.8,0.0,Smartphone,6.4,2,True,Never,10.0,82,3.48,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,5.6,0.0,Smartphone,7.5,2,True,Always,9.0,94,3.55,Beneficial,Beneficial
+16,Female,High School,Instagram,8.1,1.8,Smartphone,5.8,1,False,Sometimes,20.0,80,3.3,Beneficial,Neutral
+17,Male,High School,TikTok,6.8,1.2,Smartphone,6.7,2,True,Sometimes,21.0,71,3.06,Neutral,Neutral
+19,Female,Undergraduate,TikTok,5.2,1.7,Smartphone,7.8,3,True,Sometimes,15.0,91,3.15,Beneficial,Beneficial
+17,Female,High School,Instagram,5.5,2.1,Smartphone,6.6,3,True,Frequently,8.0,77,3.43,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,4.5,2.3,Smartphone,6.6,2,True,Rarely,24.0,77,3.58,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,8.8,1.5,Smartphone,6.3,2,False,Sometimes,15.0,64,3.04,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,6.8,0.0,Smartphone,5.7,1,True,Sometimes,19.0,79,3.48,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,3.8,0.3,Laptop/PC,7.9,4,True,Sometimes,5.0,82,3.44,Beneficial,Beneficial
+18,Male,High School,TikTok,4.3,2.2,Smartphone,5.7,2,True,Sometimes,15.0,77,3.68,Beneficial,Beneficial
+21,Female,Undergraduate,YouTube,6.0,1.9,Smartphone,6.1,2,False,Sometimes,14.0,69,3.31,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,5.1,1.6,Smartphone,8.1,3,True,Sometimes,14.0,90,3.06,Beneficial,Beneficial
+19,Male,High School,YouTube,3.2,2.5,Smartphone,8.3,4,False,Sometimes,18.0,98,3.21,Beneficial,Beneficial
+17,Female,High School,TikTok,3.9,1.7,Smartphone,8.1,3,False,Frequently,8.0,90,3.96,Beneficial,Beneficial
+17,Male,High School,Snapchat,2.7,2.0,Smartphone,8.7,4,True,Always,8.0,98,3.59,Beneficial,Beneficial
+18,Prefer not to say,Undergraduate,Instagram,3.2,1.4,Smartphone,7.5,3,False,Sometimes,10.0,89,3.85,Beneficial,Beneficial
+22,Male,Postgraduate,TikTok,8.1,2.7,Smartphone,6.0,2,True,Sometimes,16.0,76,3.2,Beneficial,Beneficial
+17,Female,High School,Snapchat,7.7,2.8,Smartphone,6.1,3,True,Frequently,24.0,69,2.95,Neutral,Neutral
+15,Female,High School,Instagram,3.8,2.2,Smartphone,7.2,3,True,Rarely,11.0,83,3.35,Beneficial,Beneficial
+21,Female,Undergraduate,Reddit,2.9,1.1,Smartphone,6.7,3,True,Rarely,11.0,76,3.36,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,3.6,1.9,Smartphone,8.5,3,False,Sometimes,7.0,92,3.77,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,7.3,0.9,Laptop/PC,6.8,2,True,Never,15.0,77,3.11,Beneficial,Beneficial
+23,Female,Postgraduate,Instagram,5.9,1.6,Smartphone,6.8,3,True,Sometimes,17.0,79,2.53,Beneficial,Beneficial
+16,Female,High School,TikTok,4.4,2.2,Smartphone,7.1,3,False,Sometimes,20.0,85,3.4,Beneficial,Beneficial
+18,Female,Undergraduate,X (Twitter),4.1,1.5,Smartphone,7.6,3,True,Rarely,15.0,85,3.67,Beneficial,Beneficial
+18,Prefer not to say,Undergraduate,TikTok,2.6,1.7,Smartphone,5.7,2,True,Frequently,9.0,91,3.74,Beneficial,Beneficial
+22,Male,Postgraduate,X (Twitter),5.5,2.8,Smartphone,7.2,2,True,Rarely,6.0,94,3.83,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,8.3,2.9,Smartphone,6.3,2,True,Sometimes,19.0,69,3.38,Beneficial,Beneficial
+21,Male,Undergraduate,YouTube,2.7,1.3,Smartphone,8.5,3,False,Rarely,1.0,93,3.89,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,5.4,2.3,Laptop/PC,7.7,3,True,Sometimes,11.0,93,3.76,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,3.2,3.4,Smartphone,7.0,2,False,Frequently,15.0,84,3.56,Beneficial,Beneficial
+17,Female,High School,Instagram,7.3,1.0,Laptop/PC,7.0,3,False,Sometimes,21.0,70,3.31,Neutral,Neutral
+18,Male,Undergraduate,TikTok,6.1,0.6,Smartphone,5.7,2,True,Frequently,8.0,84,3.47,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,4.3,0.0,Smartphone,6.0,3,True,Always,20.0,71,3.05,Neutral,Beneficial
+17,Female,High School,YouTube,5.0,1.7,Laptop/PC,7.0,3,False,Sometimes,9.0,84,3.31,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,8.2,2.1,Smartphone,6.0,2,False,Frequently,21.0,70,3.17,Neutral,Neutral
+17,Female,High School,TikTok,3.1,1.7,Smartphone,8.4,4,False,Frequently,4.0,92,3.22,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,6.4,1.5,Smartphone,6.7,2,True,Sometimes,22.0,75,2.98,Neutral,Neutral
+24,Female,Postgraduate,YouTube,9.7,1.6,Smartphone,5.4,1,True,Rarely,24.0,68,3.15,Neutral,Neutral
+18,Female,Undergraduate,TikTok,4.0,4.0,Smartphone,7.7,5,True,Always,16.0,84,3.48,Beneficial,Beneficial
+17,Female,High School,TikTok,9.8,2.6,Smartphone,5.5,1,True,Frequently,28.0,55,2.88,Neutral,Neutral
+18,Female,Undergraduate,YouTube,3.5,1.8,Smartphone,6.4,3,False,Frequently,11.0,74,3.65,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,5.1,2.6,Smartphone,6.3,2,True,Rarely,11.0,82,3.59,Beneficial,Beneficial
+21,Male,Undergraduate,X (Twitter),14.0,0.6,Smartphone,4.3,1,False,Always,24.0,50,2.31,Negative,Negative
+19,Female,Undergraduate,Snapchat,4.6,0.7,Smartphone,6.4,2,False,Frequently,19.0,72,2.99,Neutral,Beneficial
+18,Male,Undergraduate,YouTube,2.5,1.0,Smartphone,7.7,3,False,Always,5.0,90,3.41,Beneficial,Beneficial
+18,Male,Undergraduate,Reddit,12.2,0.0,Smartphone,4.9,1,True,Sometimes,25.0,45,2.38,Negative,Negative
+18,Male,High School,Instagram,6.6,2.6,Smartphone,6.3,2,True,Frequently,12.0,81,3.7,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,6.9,1.1,Smartphone,5.3,1,True,Frequently,25.0,63,2.97,Neutral,Neutral
+16,Male,High School,Instagram,3.2,1.8,Laptop/PC,8.8,5,False,Sometimes,2.0,95,3.85,Beneficial,Beneficial
+16,Female,High School,TikTok,7.2,2.6,Laptop/PC,6.7,2,True,Sometimes,14.0,81,3.55,Beneficial,Beneficial
+17,Male,High School,TikTok,7.6,3.3,Smartphone,6.7,2,False,Sometimes,16.0,79,3.2,Beneficial,Beneficial
+22,Male,Undergraduate,YouTube,2.3,1.8,Smartphone,6.9,4,False,Always,10.0,83,3.62,Beneficial,Beneficial
+17,Male,High School,Snapchat,3.7,2.0,Smartphone,7.0,2,False,Rarely,11.0,79,3.56,Beneficial,Beneficial
+17,Female,High School,Instagram,1.7,1.3,Smartphone,7.3,4,False,Frequently,7.0,78,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,4.0,2.0,Smartphone,7.1,2,False,Never,9.0,82,2.96,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,4.1,1.2,Smartphone,6.0,3,True,Sometimes,6.0,82,3.38,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,5.4,1.7,Smartphone,5.5,2,True,Sometimes,16.0,74,3.4292819932049827,Beneficial,Beneficial
+16,Male,High School,YouTube,2.7,1.5,Smartphone,8.4,4,True,Rarely,8.0,96,3.62,Beneficial,Beneficial
+15,Female,High School,YouTube,5.1,1.5,Smartphone,6.9,2,True,Frequently,11.0,80,3.34,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,11.8,1.8,Smartphone,4.7,1,True,Never,25.0,43,3.24,Neutral,Neutral
+20,Female,Undergraduate,TikTok,3.7,1.5,Smartphone,6.3,3,False,Rarely,3.0,90,3.52,Beneficial,Beneficial
+17,Male,High School,Instagram,3.1,2.7,Smartphone,8.3,3,False,Rarely,10.0,93,3.53,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,1.6,1.9,Smartphone,7.8,3,False,Frequently,9.0,89,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,4.0,1.7,Smartphone,7.3,3,False,Sometimes,10.0,86,4.0,Beneficial,Beneficial
+17,Male,High School,Instagram,6.0,0.2,Laptop/PC,6.2,2,True,Frequently,13.512123933542883,89,3.97,Beneficial,Beneficial
+17,Female,High School,Instagram,4.4,2.2,Smartphone,6.4,3,False,Always,12.0,79,3.36,Beneficial,Beneficial
+17,Prefer not to say,High School,TikTok,2.8,2.7,Smartphone,7.1,3,False,Never,11.0,95,3.57,Beneficial,Beneficial
+22,Male,Postgraduate,YouTube,5.7,2.7,Smartphone,5.4,1,False,Frequently,15.0,86,3.36,Beneficial,Beneficial
+23,Female,Undergraduate,TikTok,6.0,1.3,Smartphone,7.4,3,True,Rarely,16.0,84,3.89,Beneficial,Beneficial
+16,Female,High School,TikTok,5.7,1.0,Laptop/PC,5.6,1,True,Frequently,17.0,66,3.7,Beneficial,Beneficial
+16,Female,High School,Instagram,4.0,2.0,Smartphone,5.8,2,True,Frequently,4.0,87,3.52,Beneficial,Beneficial
+20,Female,Undergraduate,Reddit,3.7,4.0,Smartphone,8.0,4,True,Frequently,17.0,75,3.76,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,5.2,1.5,Smartphone,7.5,4,True,Frequently,14.0,83,3.45,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,6.4,2.4,Smartphone,5.9,1,True,Frequently,12.0,77,3.25,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,10.6,1.2,Smartphone,5.9,2,True,Always,24.0,65,2.58,Neutral,Neutral
+16,Male,High School,YouTube,3.4,0.6,Smartphone,6.7,3,False,Sometimes,16.0,78,3.43,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,5.2,1.0,Smartphone,5.5,2,True,Never,15.0,90,3.13,Beneficial,Beneficial
+23,Male,Postgraduate,Reddit,9.6,1.8,Smartphone,5.0,1,True,Sometimes,23.0,61,3.25,Neutral,Neutral
+16,Female,High School,TikTok,9.4,1.3,Smartphone,6.3,1,True,Always,13.0,66,3.23,Beneficial,Beneficial
+22,Female,Postgraduate,Instagram,1.3,3.1,Smartphone,7.6,5,False,Sometimes,0.0,98,4.0,Beneficial,Beneficial
+16,Female,High School,TikTok,8.4,1.8,Smartphone,6.8,2,True,Frequently,18.0,63,2.91,Neutral,Neutral
+17,Female,High School,Snapchat,4.7,2.3,Laptop/PC,5.3,2,True,Sometimes,13.0,85,3.74,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,4.8,1.2,Smartphone,6.9,3,False,Never,14.0,84,3.13,Beneficial,Beneficial
+18,Male,Undergraduate,LinkedIn,7.1,1.9,Smartphone,6.5,1,True,Rarely,20.0,81,3.25,Beneficial,Neutral
+19,Female,Undergraduate,Instagram,5.8,1.4,Smartphone,6.4,3,True,Frequently,10.0,82,3.09,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,1.9,1.3,Laptop/PC,8.4,4,True,Frequently,1.0,98,3.93,Beneficial,Beneficial
+21,Female,Undergraduate,Snapchat,3.3,0.2,Smartphone,8.6,3,True,Frequently,4.0,82,3.77,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,3.4,1.3,Laptop/PC,7.8,3,True,Frequently,16.0,77,3.66,Beneficial,Beneficial
+19,Female,High School,YouTube,3.5,2.1,Smartphone,5.8,2,True,Always,12.0,94,3.37,Beneficial,Beneficial
+16,Female,High School,TikTok,2.9,0.9,Smartphone,7.6,2,False,Rarely,0.0,98,3.61,Beneficial,Beneficial
+16,Male,High School,YouTube,12.6,1.9,Smartphone,3.8,1,True,Sometimes,29.0,39,2.66,Negative,Negative
+17,Female,High School,Instagram,4.7,2.4,Smartphone,6.5,2,True,Frequently,22.0,67,3.13,Neutral,Neutral
+21,Male,Undergraduate,Instagram,2.4,3.1,Smartphone,7.8,3,True,Frequently,3.0,89,3.85,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,6.5,1.5,Smartphone,5.7,2,False,Always,13.0,74,3.34,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,4.7,1.8,Smartphone,7.6,3,False,Sometimes,17.0,83,3.23,Beneficial,Beneficial
+20,Female,High School,Snapchat,2.1,1.2,Smartphone,8.0,3,True,Sometimes,8.0,96,4.0,Beneficial,Beneficial
+22,Male,Postgraduate,X (Twitter),7.1,3.3,Smartphone,5.8,1,False,Always,18.0,66,3.48,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,4.0,1.1,Laptop/PC,7.3,3,False,Frequently,5.0,83,3.63,Beneficial,Beneficial
+20,Male,Undergraduate,Reddit,6.2,0.6,Smartphone,8.1,2,True,Frequently,12.0,81,3.98,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.6,3.1,Smartphone,8.6,5,False,Rarely,4.0,98,3.72,Beneficial,Beneficial
+17,Female,High School,Snapchat,2.8,2.6,Smartphone,8.1,4,False,Always,7.0,98,3.98,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,4.2,2.8,Smartphone,6.8,2,True,Sometimes,6.0,88,3.3,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,2.8,1.5,Smartphone,7.2,4,False,Rarely,10.0,93,3.92,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.0,1.1,Laptop/PC,7.4,3,False,Sometimes,13.0,73,3.31,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,4.7,0.3,Smartphone,8.2,3,False,Sometimes,2.0,90,3.82,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.5,1.9,Smartphone,8.4,3,False,Rarely,13.0,94,3.48,Beneficial,Beneficial
+16,Female,High School,TikTok,2.9,2.0,Laptop/PC,8.4,4,True,Always,10.0,84,3.76,Beneficial,Beneficial
+17,Female,High School,YouTube,5.2,2.0,Smartphone,5.7,2,True,Frequently,24.0,79,3.32,Beneficial,Neutral
+20,Female,Undergraduate,YouTube,4.8,2.3,Laptop/PC,7.7,3,False,Rarely,15.0,85,3.63,Beneficial,Beneficial
+20,Non-Binary,Undergraduate,TikTok,5.8,2.2,Laptop/PC,7.9,3,True,Rarely,10.0,81,3.57,Beneficial,Beneficial
+20,Female,Undergraduate,Reddit,4.5,2.4,Smartphone,7.1,2,False,Always,8.0,92,3.75,Beneficial,Beneficial
+17,Prefer not to say,High School,Instagram,8.7,2.0,Smartphone,3.8,1,True,Rarely,14.0,69,2.79,Beneficial,Neutral
+18,Female,Undergraduate,YouTube,5.6,1.6,Smartphone,7.8,3,True,Frequently,8.0,85,3.5,Beneficial,Beneficial
+19,Female,Undergraduate,Snapchat,6.6,1.0,Smartphone,6.8,4,False,Rarely,12.0,83,3.36,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,6.4,1.8,Laptop/PC,5.1,2,False,Frequently,22.0,66,3.23,Neutral,Neutral
+17,Female,High School,Snapchat,4.0,1.7,Smartphone,7.1,2,True,Frequently,14.0,83,3.89,Beneficial,Beneficial
+15,Female,High School,TikTok,4.4,1.2,Smartphone,7.0,2,False,Sometimes,12.0,80,3.4292819932049827,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,6.2,1.6,Smartphone,6.4,2,True,Frequently,20.0,76,3.45,Beneficial,Beneficial
+24,Female,Postgraduate,Instagram,4.3,2.3,Smartphone,5.5,1,True,Sometimes,13.0,78,3.89,Beneficial,Beneficial
+21,Male,Undergraduate,TikTok,2.0,1.3,Smartphone,9.4,4,True,Always,0.0,98,4.0,Beneficial,Beneficial
+16,Female,High School,YouTube,3.9,1.0,Smartphone,7.8,3,False,Rarely,3.0,90,3.28,Beneficial,Beneficial
+20,Male,High School,Instagram,4.4,2.9,Smartphone,6.5,2,False,Sometimes,13.0,82,3.26,Beneficial,Beneficial
+22,Female,Postgraduate,Snapchat,3.1,1.8,Laptop/PC,5.3,2,True,Always,17.0,71,3.35,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,2.2,1.4,Smartphone,7.1,3,True,Frequently,7.0,78,3.61,Beneficial,Beneficial
+17,Male,High School,YouTube,4.8,4.1,Smartphone,7.2,2,False,Sometimes,15.0,78,2.87,Beneficial,Beneficial
+24,Male,Postgraduate,Instagram,9.1,3.1,Smartphone,5.4,1,True,Frequently,20.0,70,3.41,Beneficial,Neutral
+19,Male,Undergraduate,Snapchat,5.0,0.3,Smartphone,6.8,2,True,Frequently,15.0,69,3.48,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,4.6,0.8,Smartphone,7.4,3,True,Frequently,17.0,70,3.7,Beneficial,Beneficial
+17,Female,High School,TikTok,6.1,1.8,Smartphone,7.7,2,False,Always,11.0,85,4.0,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,3.8,1.1,Smartphone,6.3,2,True,Sometimes,9.0,81,3.94,Beneficial,Beneficial
+19,Female,Undergraduate,X (Twitter),2.8,1.2,Smartphone,9.5,4,False,Always,4.0,97,3.16,Beneficial,Beneficial
+16,Female,High School,TikTok,4.9,1.6,Smartphone,7.1,3,False,Frequently,14.0,78,3.34,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,2.0,1.4,Smartphone,7.2,3,False,Always,8.0,94,3.86,Beneficial,Beneficial
+18,Prefer not to say,Undergraduate,TikTok,14.0,1.0,Smartphone,4.1,1,True,Sometimes,27.0,45,2.91,Negative,Negative
+22,Male,Undergraduate,Instagram,4.8,2.7,Smartphone,6.1,1,True,Never,14.0,86,3.21,Beneficial,Beneficial
+17,Male,High School,Reddit,8.2,2.9,Smartphone,5.4,2,True,Rarely,24.0,59,2.95,Neutral,Neutral
+20,Male,Undergraduate,TikTok,4.0,1.3,Smartphone,7.3,3,True,Sometimes,8.0,85,3.64,Beneficial,Beneficial
+17,Male,High School,TikTok,4.4,1.2,Smartphone,4.8,2,True,Frequently,18.0,76,3.31,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,7.6,2.8,Smartphone,6.3,2,True,Never,22.0,73,3.28,Neutral,Neutral
+17,Female,High School,Reddit,5.2,1.9,Smartphone,7.7,3,True,Never,9.0,89,3.84,Beneficial,Beneficial
+19,Female,Undergraduate,Snapchat,10.4,0.7,Smartphone,4.3,1,True,Sometimes,21.0,55,2.71,Neutral,Neutral
+19,Female,Undergraduate,X (Twitter),6.1,1.7,Smartphone,7.6,2,True,Sometimes,5.0,80,3.42,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,3.5,1.6,Laptop/PC,6.8,3,True,Sometimes,4.0,86,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,Snapchat,2.9,2.1,Smartphone,6.1,4,False,Frequently,18.0,82,3.07,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,3.4,1.7,Smartphone,8.2,4,False,Frequently,8.0,90,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,LinkedIn,3.1,1.5,Smartphone,8.4,4,False,Frequently,0.0,93,3.7,Beneficial,Beneficial
+23,Female,Postgraduate,YouTube,6.7,0.2,Smartphone,6.8,3,False,Sometimes,11.0,76,3.73,Beneficial,Beneficial
+16,Female,High School,Instagram,2.9,1.2,Smartphone,8.6,3,True,Sometimes,11.0,84,3.52,Beneficial,Beneficial
+15,Female,High School,YouTube,4.4,0.9,Smartphone,6.6,3,False,Always,11.0,86,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,5.8,2.3,Laptop/PC,6.8,3,True,Frequently,10.0,82,3.4292819932049827,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,5.4,1.7,Laptop/PC,6.9,3,True,Always,13.0,79,3.49,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,7.8,1.6,Smartphone,5.5,1,True,Frequently,24.0,69,2.86,Neutral,Neutral
+19,Female,Undergraduate,Instagram,3.8,2.3,Smartphone,7.2,3,True,Never,11.0,90,3.67,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.4,1.0,Smartphone,8.2,3,True,Sometimes,11.0,75,3.97,Beneficial,Beneficial
+24,Male,Postgraduate,Instagram,4.1,1.7,Smartphone,7.5,3,False,Frequently,9.0,86,2.98,Beneficial,Beneficial
+25,Female,Postgraduate,LinkedIn,3.5,0.8,Tablet,6.3,2,False,Sometimes,14.0,81,3.89,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,6.2,1.2,Smartphone,6.3,2,False,Rarely,16.0,91,2.9,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,4.7,3.0,Smartphone,5.8,2,True,Rarely,14.0,87,3.4,Beneficial,Beneficial
+21,Male,Undergraduate,YouTube,13.1,2.3,Smartphone,3.8,1,True,Sometimes,36.0,43,1.95,Negative,Negative
+18,Non-Binary,Undergraduate,YouTube,8.8,1.9,Smartphone,5.2,1,True,Frequently,29.0,60,3.39,Neutral,Neutral
+22,Male,Postgraduate,Instagram,2.9,1.8,Smartphone,7.4,3,False,Sometimes,5.0,85,3.85,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,6.6,1.0,Smartphone,5.6,3,True,Frequently,15.0,60,2.95,Neutral,Beneficial
+19,Male,Undergraduate,YouTube,9.6,1.4,Smartphone,6.0,2,False,Rarely,19.0,63,3.02,Neutral,Neutral
+19,Prefer not to say,Undergraduate,TikTok,6.0,1.2,Tablet,5.6,1,True,Rarely,13.0,88,3.12,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,3.8,1.9,Smartphone,7.1,3,False,Frequently,3.0,96,3.8,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,4.7,1.5,Smartphone,6.1,2,True,Never,16.0,83,3.33,Beneficial,Beneficial
+22,Female,Postgraduate,TikTok,4.0,1.9,Laptop/PC,6.9,3,True,Frequently,7.0,81,3.69,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,4.3,1.9,Laptop/PC,6.0,2,False,Frequently,13.0,83,3.48,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,5.7,1.5,Smartphone,7.1,2,True,Frequently,18.0,79,2.89,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,4.8,2.3,Smartphone,6.9,3,False,Frequently,15.0,73,3.69,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,2.4,2.3,Smartphone,8.0,3,True,Frequently,11.0,90,3.86,Beneficial,Beneficial
+23,Female,Undergraduate,X (Twitter),6.6,2.3,Smartphone,7.3,2,True,Sometimes,14.0,77,3.24,Beneficial,Beneficial
+17,Male,High School,YouTube,4.3,2.3,Smartphone,7.2,3,True,Frequently,14.0,92,3.62,Beneficial,Beneficial
+20,Male,High School,Instagram,5.6,3.1,Smartphone,6.1,3,False,Sometimes,17.0,71,3.13,Beneficial,Beneficial
+16,Female,High School,TikTok,3.9,0.9,Laptop/PC,7.1,3,False,Frequently,17.0,91,4.0,Beneficial,Beneficial
+19,Female,High School,Instagram,6.6,1.0,Smartphone,8.5,3,True,Always,13.0,80,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,6.2,1.9,Smartphone,6.7,3,True,Frequently,16.0,81,3.13,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,5.9,2.8,Smartphone,8.1,3,True,Frequently,9.0,83,3.84,Beneficial,Beneficial
+16,Male,High School,Snapchat,4.8,0.7,Smartphone,7.4,3,False,Frequently,16.0,92,3.47,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,5.9,0.9,Smartphone,6.0,1,True,Always,11.0,76,3.32,Beneficial,Beneficial
+16,Male,High School,TikTok,5.9,1.8,Laptop/PC,6.3,1,True,Sometimes,16.0,66,3.36,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,5.5,3.0,Smartphone,6.0,2,True,Sometimes,10.0,71,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,X (Twitter),8.6,1.9,Smartphone,4.8,1,False,Rarely,14.0,63,3.14,Beneficial,Beneficial
+17,Female,High School,Instagram,4.9,1.1,Smartphone,5.9,2,True,Sometimes,14.0,87,3.36,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,2.4,1.1,Smartphone,9.6,3,False,Sometimes,2.0,97,4.0,Beneficial,Beneficial
+21,Male,Undergraduate,Snapchat,4.3,1.4,Smartphone,6.0,3,False,Frequently,15.0,85,3.44,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,5.0,1.2,Smartphone,6.8,3,True,Always,9.0,73,3.4292819932049827,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,12.7,2.0,Smartphone,4.2,1,True,Always,34.0,44,2.35,Negative,Negative
+18,Female,Undergraduate,Instagram,9.1,1.6,Smartphone,5.0,1,True,Rarely,27.0,56,2.8,Neutral,Neutral
+21,Female,Undergraduate,Instagram,7.6,1.6,Smartphone,5.9,1,True,Rarely,25.0,70,3.4292819932049827,Neutral,Neutral
+19,Male,Undergraduate,YouTube,3.0,1.6,Laptop/PC,7.7,4,False,Sometimes,9.0,96,4.0,Beneficial,Beneficial
+16,Male,High School,Instagram,5.8,2.1,Smartphone,7.5,2,True,Rarely,16.0,72,3.35,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,2.5,0.6,Smartphone,8.1,4,False,Sometimes,6.0,93,3.51,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,5.6,1.5,Tablet,5.9,1,False,Sometimes,14.0,85,3.38,Beneficial,Beneficial
+16,Male,High School,Instagram,4.7,1.8,Smartphone,5.5,2,True,Sometimes,8.0,72,4.0,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,6.0,1.5,Smartphone,6.0,3,True,Never,11.0,75,3.08,Beneficial,Beneficial
+15,Female,High School,Reddit,7.3,2.0,Smartphone,7.2,2,True,Frequently,15.0,70,3.03,Beneficial,Beneficial
+26,Female,Postgraduate,LinkedIn,4.4,1.1,Smartphone,7.0,2,False,Always,14.0,73,3.5,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,11.3,2.3,Smartphone,3.5,1,False,Rarely,33.0,47,2.72,Negative,Negative
+17,Female,High School,Instagram,3.3,2.1,Smartphone,7.4,4,False,Always,11.0,79,3.44,Beneficial,Beneficial
+18,Male,High School,Instagram,14.0,3.4,Smartphone,3.5,1,True,Always,40.0,35,2.44,Negative,Negative
+19,Female,Undergraduate,Snapchat,4.6,1.5,Smartphone,7.9,4,False,Frequently,4.0,84,3.48,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,3.4,2.3,Smartphone,6.4,1,False,Sometimes,13.0,92,3.52,Beneficial,Beneficial
+19,Female,Undergraduate,Snapchat,5.2,2.0,Smartphone,8.4,3,True,Frequently,3.0,89,3.29,Beneficial,Beneficial
+20,Male,Undergraduate,X (Twitter),7.3,1.8,Smartphone,5.8,2,True,Always,17.0,75,3.0,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,12.3,0.8,Laptop/PC,5.2,1,True,Frequently,32.0,55,2.99,Negative,Negative
+22,Non-Binary,Postgraduate,Snapchat,4.1,1.5,Smartphone,7.4,3,False,Always,14.0,80,3.45,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,6.1,1.5,Laptop/PC,6.0,2,True,Always,19.0,70,3.38,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,3.7,2.4,Smartphone,7.0,3,False,Sometimes,16.0,80,3.08,Beneficial,Beneficial
+21,Male,Undergraduate,YouTube,5.1,2.1,Smartphone,8.9,3,True,Frequently,16.0,90,3.87,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,6.4,2.1,Laptop/PC,5.3,1,True,Rarely,10.0,80,2.73,Beneficial,Beneficial
+21,Female,Undergraduate,LinkedIn,7.6,1.3,Smartphone,6.0,1,True,Sometimes,22.0,71,3.14,Neutral,Neutral
+20,Male,Undergraduate,Instagram,4.0,1.3,Smartphone,7.0,3,False,Frequently,6.0,87,3.71,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,11.7,0.6,Smartphone,4.7,1,False,Frequently,17.0,51,2.69,Neutral,Neutral
+17,Female,High School,YouTube,6.0,2.6,Smartphone,7.2,2,True,Sometimes,9.0,79,3.89,Beneficial,Beneficial
+17,Female,High School,YouTube,8.8,2.9,Smartphone,5.6,1,True,Always,13.0,59,2.52,Neutral,Neutral
+18,Male,Undergraduate,Snapchat,4.9,2.4,Smartphone,6.7,2,False,Sometimes,10.0,86,3.41,Beneficial,Beneficial
+17,Male,High School,Instagram,4.0,1.5,Smartphone,7.0,3,False,Frequently,20.0,76,3.51,Beneficial,Beneficial
+18,Male,Undergraduate,LinkedIn,3.9,2.8,Smartphone,8.3,3,False,Always,3.0,93,3.65,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,3.5,2.3,Smartphone,8.1,3,True,Sometimes,8.0,94,3.37,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,2.8,1.6,Smartphone,6.7,4,True,Frequently,4.0,95,3.81,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,4.5,2.1,Smartphone,7.6,3,True,Frequently,8.0,80,3.93,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,3.1,2.1,Smartphone,7.0,3,False,Sometimes,12.0,76,3.67,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,8.9,1.3,Smartphone,4.1,1,True,Never,18.0,57,2.93,Neutral,Neutral
+22,Prefer not to say,Postgraduate,Instagram,5.7,0.7,Smartphone,5.9,3,False,Rarely,7.0,72,3.48,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,5.7,1.7,Laptop/PC,6.8,4,True,Frequently,18.0,79,3.29,Beneficial,Beneficial
+20,Female,Undergraduate,Snapchat,3.4,0.8,Smartphone,6.7,2,False,Rarely,11.0,88,3.94,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,3.1,1.8,Laptop/PC,7.5,2,True,Rarely,13.0,83,3.79,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,3.0,1.9,Smartphone,7.9,3,True,Sometimes,5.0,94,3.45,Beneficial,Beneficial
+19,Male,Undergraduate,X (Twitter),3.2,1.9,Smartphone,8.0,3,False,Sometimes,16.0,90,3.58,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.5,1.4,Smartphone,8.8,3,True,Always,13.512123933542883,94,3.66,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,5.6,2.7,Smartphone,5.0,1,True,Frequently,23.0,69,3.14,Neutral,Neutral
+18,Female,Undergraduate,X (Twitter),5.1,2.1,Smartphone,4.9,1,True,Sometimes,21.0,61,2.85,Neutral,Neutral
+18,Male,Undergraduate,TikTok,8.7,2.8,Smartphone,6.4,1,True,Always,16.0,58,3.21,Neutral,Beneficial
+19,Female,Undergraduate,YouTube,4.5,1.7,Smartphone,6.0,3,False,Always,15.0,74,3.23,Beneficial,Beneficial
+23,Male,Postgraduate,Instagram,12.0,1.2,Smartphone,4.8,1,True,Frequently,37.0,48,2.93,Negative,Negative
+17,Male,High School,TikTok,6.2,0.9,Smartphone,7.5,3,True,Always,17.0,76,3.25,Beneficial,Beneficial
+19,Non-Binary,Undergraduate,Snapchat,4.4,1.9,Smartphone,8.3,3,False,Frequently,11.0,97,3.58,Beneficial,Beneficial
+15,Male,High School,Snapchat,6.3,1.3,Smartphone,6.3,1,True,Frequently,18.0,79,3.35,Beneficial,Beneficial
+15,Female,High School,TikTok,4.9,1.3,Laptop/PC,6.5,2,False,Rarely,14.0,73,3.34,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,11.7,2.0,Laptop/PC,5.0,1,True,Frequently,34.0,45,2.38,Negative,Negative
+19,Female,Undergraduate,YouTube,5.1,2.1,Laptop/PC,5.8,2,True,Sometimes,16.0,75,3.93,Beneficial,Beneficial
+18,Female,Undergraduate,Reddit,4.0,2.3,Smartphone,6.0,3,True,Frequently,7.0,86,3.29,Beneficial,Beneficial
+18,Male,Undergraduate,Reddit,1.5,1.2,Smartphone,7.0,3,False,Sometimes,7.0,95,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,5.7,3.2,Smartphone,7.5,3,False,Rarely,9.0,82,3.93,Beneficial,Beneficial
+18,Non-Binary,Undergraduate,TikTok,5.7,1.2,Smartphone,5.7,3,True,Frequently,8.0,80,3.24,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,3.5,1.8,Smartphone,7.7,3,True,Frequently,9.0,88,3.69,Beneficial,Beneficial
+16,Male,High School,Instagram,3.4,2.0,Smartphone,7.6,3,True,Sometimes,13.0,78,3.36,Beneficial,Beneficial
+17,Female,High School,Reddit,2.8,1.3,Smartphone,5.3,2,True,Never,9.0,71,4.0,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,2.2,2.5,Smartphone,5.9,3,True,Rarely,13.0,88,4.0,Beneficial,Beneficial
+17,Female,High School,Snapchat,1.5,1.9,Laptop/PC,8.6,4,True,Never,0.0,98,3.7,Beneficial,Beneficial
+17,Male,High School,Instagram,3.5,1.1,Smartphone,7.9,3,False,Frequently,2.0,94,3.75,Beneficial,Beneficial
+17,Male,High School,TikTok,7.5,1.8,Laptop/PC,6.4,3,True,Sometimes,16.0,69,3.63,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,4.9,0.4,Laptop/PC,7.3,4,True,Always,9.0,93,3.57,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,4.0,1.7,Smartphone,6.5,2,True,Always,13.0,78,3.28,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,2.8,2.7,Smartphone,6.4,3,False,Sometimes,13.0,90,3.73,Beneficial,Beneficial
+22,Female,Undergraduate,Snapchat,3.9,1.6,Smartphone,8.0,3,False,Sometimes,12.0,89,4.0,Beneficial,Beneficial
+22,Male,Undergraduate,TikTok,9.7,2.3,Smartphone,6.7,3,True,Sometimes,23.0,66,3.09,Neutral,Neutral
+19,Male,Undergraduate,Instagram,6.8,2.3,Smartphone,6.0,1,False,Sometimes,18.0,80,3.14,Beneficial,Beneficial
+16,Male,High School,Instagram,8.2,2.0,Smartphone,5.6,1,True,Sometimes,25.0,64,3.22,Neutral,Neutral
+18,Female,Undergraduate,TikTok,9.3,0.8,Smartphone,5.3,1,True,Frequently,23.0,65,2.67,Neutral,Neutral
+19,Female,Undergraduate,X (Twitter),5.6,1.4,Smartphone,6.4,3,True,Sometimes,15.0,74,3.29,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,4.3,2.2,Smartphone,6.8,3,False,Rarely,4.0,85,3.59,Beneficial,Beneficial
+18,Male,Undergraduate,Reddit,12.0,0.9,Smartphone,5.0,1,True,Never,31.0,53,2.57,Negative,Negative
+17,Male,High School,YouTube,4.3,3.2,Laptop/PC,7.8,3,True,Frequently,13.0,92,3.94,Beneficial,Beneficial
+20,Male,Undergraduate,X (Twitter),2.5,2.3,Smartphone,8.4,3,False,Sometimes,11.0,91,3.56,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,7.0,1.4,Smartphone,6.5,2,True,Never,16.0,69,2.46,Neutral,Neutral
+20,Female,Undergraduate,TikTok,9.7,2.2,Smartphone,5.6,1,False,Frequently,26.0,60,3.03,Neutral,Neutral
+18,Male,Undergraduate,Instagram,4.7,1.8,Smartphone,6.9,2,True,Rarely,12.0,83,3.46,Beneficial,Beneficial
+18,Female,Undergraduate,X (Twitter),4.0,2.6,Smartphone,7.4,4,False,Frequently,15.0,83,3.12,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,4.3,1.1,Laptop/PC,6.4,3,True,Rarely,20.0,79,3.6,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,3.4,2.9,Smartphone,7.1,2,False,Always,17.0,88,3.84,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.2,3.6,Smartphone,8.5,2,False,Frequently,8.0,98,3.87,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,6.0,1.5,Smartphone,5.6,2,True,Always,12.0,70,3.51,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,5.7,1.4,Smartphone,7.4,2,False,Frequently,18.0,76,3.64,Beneficial,Beneficial
+19,Female,Undergraduate,Reddit,8.7,2.2,Smartphone,4.8,1,True,Rarely,27.0,54,2.57,Negative,Neutral
+18,Male,Undergraduate,Instagram,10.4,3.0,Smartphone,5.1,1,True,Rarely,23.0,51,3.29,Neutral,Neutral
+17,Male,High School,Instagram,6.5,1.4,Smartphone,4.8,1,True,Always,14.0,62,3.3,Beneficial,Beneficial
+16,Male,High School,YouTube,5.2,1.6,Smartphone,5.7,3,True,Sometimes,24.0,77,3.31,Neutral,Neutral
+16,Female,High School,YouTube,6.3,1.5,Smartphone,6.7,3,True,Never,6.0,86,3.51,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,4.4,1.5,Smartphone,7.3,3,True,Frequently,14.0,84,3.55,Beneficial,Beneficial
+22,Male,Postgraduate,Instagram,2.5,3.6,Smartphone,6.4,3,False,Rarely,10.0,90,4.0,Beneficial,Beneficial
+16,Male,High School,YouTube,2.1,3.3,Smartphone,7.1,2,False,Never,0.0,98,4.0,Beneficial,Beneficial
+19,Female,High School,TikTok,3.0,2.6,Smartphone,8.1,3,False,Always,4.0,97,3.61,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,11.1,1.4,Laptop/PC,5.8,1,True,Always,16.0,82,3.29,Beneficial,Neutral
+17,Female,High School,TikTok,14.0,2.2,Smartphone,3.9,1,True,Never,32.0,35,2.67,Negative,Negative
+20,Female,High School,YouTube,9.1,1.4,Smartphone,4.4,1,True,Rarely,24.0,57,3.06,Neutral,Neutral
+16,Female,High School,TikTok,6.9,1.3,Smartphone,7.2,2,False,Always,17.0,70,3.43,Beneficial,Beneficial
+17,Female,High School,Instagram,5.8,1.1,Smartphone,5.2,1,True,Frequently,21.0,70,3.08,Neutral,Neutral
+18,Male,Undergraduate,Instagram,2.3,1.4,Smartphone,8.2,5,True,Frequently,8.0,96,3.88,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,5.6,2.3,Smartphone,7.6,3,True,Rarely,11.0,91,3.17,Beneficial,Beneficial
+23,Male,Postgraduate,Instagram,6.4,1.6,Smartphone,6.1,2,True,Sometimes,25.0,69,3.45,Neutral,Neutral
+19,Female,Undergraduate,Snapchat,6.2,1.3,Smartphone,4.7,2,False,Rarely,18.0,73,3.27,Beneficial,Beneficial
+17,Female,High School,YouTube,12.5,2.2,Smartphone,4.0,1,False,Sometimes,31.0,36,2.96,Negative,Negative
+20,Male,Undergraduate,Reddit,9.1,2.6,Smartphone,3.9,1,True,Always,40.0,43,3.11,Negative,Negative
+20,Female,Undergraduate,Instagram,4.9,2.9,Smartphone,6.3,2,False,Always,10.0,79,3.39,Beneficial,Beneficial
+17,Non-Binary,High School,TikTok,8.6,1.9,Smartphone,5.3,1,True,Sometimes,24.0,58,3.2,Neutral,Neutral
+15,Male,High School,Instagram,3.0,1.8,Laptop/PC,6.9,4,False,Frequently,5.0,94,3.7,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,3.2,2.7,Smartphone,7.5,4,False,Never,4.0,98,3.57,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,8.9,1.3,Smartphone,6.8,2,False,Rarely,28.0,62,2.29,Negative,Neutral
+19,Male,Undergraduate,Snapchat,9.4,1.5,Smartphone,5.6,1,True,Always,25.0,62,3.05,Neutral,Neutral
+15,Female,High School,TikTok,3.8,1.0,Smartphone,8.9,4,True,Sometimes,1.0,98,3.67,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,6.0,1.8,Smartphone,6.4,1,True,Sometimes,19.0,68,2.85,Neutral,Neutral
+19,Female,Undergraduate,Instagram,2.3,2.1,Smartphone,9.5,4,False,Always,8.0,88,3.74,Beneficial,Beneficial
+15,Female,High School,TikTok,3.6,2.7,Smartphone,9.0,4,False,Frequently,6.0,98,3.65,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,6.5,1.8,Smartphone,5.8,1,True,Never,11.0,64,3.64,Beneficial,Beneficial
+20,Male,High School,TikTok,6.1,1.8,Smartphone,5.6,2,True,Frequently,19.0,76,3.58,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,8.5,1.8,Smartphone,5.5,1,True,Sometimes,24.0,67,2.79,Neutral,Neutral
+18,Female,Undergraduate,Snapchat,4.4,2.3,Smartphone,7.1,3,False,Rarely,18.0,87,3.55,Beneficial,Beneficial
+16,Female,High School,TikTok,4.3,1.0,Smartphone,6.8,4,False,Sometimes,17.0,81,3.62,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,5.4,1.1,Smartphone,7.3,3,False,Rarely,7.0,84,3.4,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,5.2,2.1,Smartphone,6.8,3,True,Rarely,10.0,85,3.49,Beneficial,Beneficial
+24,Female,Undergraduate,TikTok,5.4,1.0,Laptop/PC,6.3,3,True,Frequently,14.0,77,3.1,Beneficial,Beneficial
+17,Female,High School,Instagram,11.2,1.7,Smartphone,5.2,2,True,Sometimes,22.0,54,2.69,Neutral,Neutral
+15,Male,High School,TikTok,1.5,3.5,Smartphone,8.5,4,True,Frequently,5.0,98,3.4292819932049827,Beneficial,Beneficial
+17,Female,High School,YouTube,7.5,1.6,Smartphone,5.5,1,True,Always,26.0,70,3.32,Neutral,Neutral
+17,Female,High School,Instagram,3.9,1.0,Smartphone,7.2,4,False,Always,20.0,81,3.56,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,2.6,1.8,Smartphone,6.5,3,False,Never,13.512123933542883,92,3.75,Beneficial,Beneficial
+18,Prefer not to say,Undergraduate,YouTube,5.5,2.1,Smartphone,5.3,2,True,Frequently,18.0,73,3.5,Beneficial,Beneficial
+17,Male,High School,Reddit,4.0,1.9,Smartphone,7.1,4,False,Sometimes,11.0,80,3.36,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,5.2,1.7,Smartphone,7.0,3,True,Always,12.0,85,3.69,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,5.3,1.7,Smartphone,7.0,3,False,Sometimes,15.0,75,3.44,Beneficial,Beneficial
+24,Male,Postgraduate,Instagram,5.9,2.4,Smartphone,6.9,2,True,Frequently,17.0,77,3.71,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,4.0,2.2,Smartphone,7.6,3,False,Frequently,7.0,98,3.6,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,4.7,1.4,Tablet,6.7,1,True,Always,10.0,87,3.39,Beneficial,Beneficial
+17,Male,High School,Instagram,2.2,1.9,Laptop/PC,7.5,2,True,Always,13.512123933542883,89,3.43,Beneficial,Beneficial
+20,Female,Undergraduate,Snapchat,8.5,2.5,Smartphone,4.3,1,True,Sometimes,17.0,63,3.15,Neutral,Neutral
+20,Male,High School,Reddit,8.6,2.5,Smartphone,5.4,1,True,Frequently,19.0,68,3.35,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,1.4,1.8,Smartphone,7.8,4,True,Sometimes,7.0,98,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,5.9,2.4,Smartphone,7.5,3,True,Sometimes,15.0,85,3.63,Beneficial,Beneficial
+17,Female,High School,TikTok,4.1,2.3,Smartphone,5.9,3,True,Sometimes,14.0,84,3.01,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,2.4,1.5,Smartphone,8.6,4,False,Sometimes,6.0,98,4.0,Beneficial,Beneficial
+16,Female,High School,TikTok,4.8,1.7,Smartphone,6.5,2,False,Always,13.0,80,3.52,Beneficial,Beneficial
+17,Female,High School,TikTok,2.5,1.2,Smartphone,7.2,3,False,Sometimes,2.0,98,3.9,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,3.1,2.0,Laptop/PC,7.3,3,True,Sometimes,5.0,80,3.73,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.9,1.0,Smartphone,6.7,3,True,Frequently,17.0,81,3.65,Beneficial,Beneficial
+17,Female,High School,Snapchat,9.8,2.9,Smartphone,5.0,1,False,Sometimes,27.0,61,2.65,Neutral,Neutral
+24,Male,Undergraduate,Snapchat,4.7,1.3,Smartphone,6.3,1,False,Sometimes,16.0,71,4.0,Beneficial,Beneficial
+17,Non-Binary,High School,Reddit,8.9,0.9,Smartphone,5.8,1,False,Always,15.0,72,3.17,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,6.3,1.6,Tablet,7.5,3,True,Sometimes,17.0,74,4.0,Beneficial,Beneficial
+17,Male,High School,LinkedIn,6.4,1.3,Laptop/PC,6.9,3,True,Sometimes,21.0,67,3.02,Neutral,Neutral
+21,Female,Undergraduate,YouTube,4.0,2.4,Laptop/PC,6.5,3,False,Sometimes,18.0,74,3.42,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,2.8,2.3,Smartphone,7.7,3,True,Frequently,13.0,87,3.83,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,8.2,1.9,Smartphone,5.1,2,True,Frequently,16.0,68,3.44,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,8.2,2.0,Smartphone,6.4,2,True,Sometimes,18.0,69,3.44,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,2.4,2.2,Smartphone,7.9,3,False,Sometimes,5.0,91,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,4.1,2.4,Smartphone,7.2,3,True,Frequently,10.0,72,3.22,Beneficial,Beneficial
+23,Male,Postgraduate,X (Twitter),4.3,0.8,Laptop/PC,7.0,3,True,Sometimes,7.0,85,3.94,Beneficial,Beneficial
+17,Male,High School,Snapchat,1.1,3.4,Smartphone,10.1,5,True,Frequently,5.0,98,3.88,Beneficial,Beneficial
+17,Male,High School,Instagram,1.7,1.9,Smartphone,8.5,4,False,Sometimes,7.0,88,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,3.6,0.3,Smartphone,8.2,3,False,Sometimes,11.0,93,3.31,Beneficial,Beneficial
+20,Female,Undergraduate,Reddit,14.0,1.9,Laptop/PC,3.0,1,True,Frequently,40.0,34,2.39,Negative,Negative
+21,Male,Undergraduate,YouTube,2.7,3.1,Smartphone,7.7,3,True,Sometimes,4.0,90,3.63,Beneficial,Beneficial
+21,Non-Binary,Undergraduate,TikTok,4.6,1.5,Smartphone,7.1,2,False,Frequently,5.0,95,3.44,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,4.1,3.4,Laptop/PC,7.1,3,True,Rarely,19.0,76,3.38,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,6.2,1.0,Smartphone,5.5,1,True,Frequently,19.0,63,3.49,Beneficial,Beneficial
+20,Male,Undergraduate,Reddit,3.3,2.3,Smartphone,7.9,4,False,Always,7.0,91,3.79,Beneficial,Beneficial
+17,Female,High School,TikTok,8.7,2.0,Smartphone,4.8,1,True,Frequently,19.0,69,3.59,Beneficial,Beneficial
+19,Female,Undergraduate,X (Twitter),5.3,1.3,Smartphone,5.8,1,True,Frequently,17.0,89,3.09,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,5.6,1.5,Smartphone,5.3,1,True,Sometimes,24.0,68,3.07,Neutral,Neutral
+19,Female,Undergraduate,Instagram,2.6,1.2,Smartphone,7.3,4,False,Rarely,11.0,85,3.57,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,3.1,3.2,Smartphone,7.7,4,True,Frequently,8.0,92,3.43,Beneficial,Beneficial
+20,Non-Binary,Undergraduate,YouTube,4.9,2.8,Smartphone,6.5,2,False,Sometimes,14.0,83,3.62,Beneficial,Beneficial
+17,Female,High School,Snapchat,5.9,1.7,Smartphone,6.9,2,True,Sometimes,9.0,89,3.55,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,1.7,1.1,Smartphone,8.4,4,False,Sometimes,6.0,98,3.92,Beneficial,Beneficial
+18,Male,High School,Instagram,6.8,2.0,Smartphone,6.5,2,True,Sometimes,23.0,68,3.51,Neutral,Beneficial
+16,Female,High School,Reddit,4.5,2.1,Smartphone,8.1,4,False,Always,15.0,87,3.29,Beneficial,Beneficial
+17,Male,High School,Snapchat,4.7,1.3,Smartphone,6.1,2,False,Sometimes,9.0,87,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,4.7,1.4,Smartphone,4.9,2,True,Always,15.0,80,3.29,Beneficial,Beneficial
+16,Male,High School,YouTube,5.8,3.3,Smartphone,7.1,1,False,Sometimes,13.0,78,3.1,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,5.9,3.1,Smartphone,6.6,3,True,Always,20.0,76,3.29,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,2.7,1.5,Smartphone,7.2,4,False,Sometimes,3.0,98,3.63,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,4.5,0.8,Smartphone,7.0,3,True,Rarely,11.0,96,3.33,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,3.2,2.6,Smartphone,8.5,4,False,Sometimes,4.0,91,3.75,Beneficial,Beneficial
+16,Female,High School,Instagram,4.3,2.4,Laptop/PC,8.4,4,True,Frequently,13.0,94,3.72,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,3.1,2.3,Smartphone,7.0,4,True,Frequently,16.0,93,3.78,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,3.5,0.9,Smartphone,8.6,5,False,Rarely,11.0,86,3.35,Beneficial,Beneficial
+20,Female,High School,Instagram,4.5,1.3,Smartphone,7.7,2,False,Rarely,12.0,85,3.52,Beneficial,Beneficial
+22,Male,Undergraduate,X (Twitter),7.7,1.0,Smartphone,6.2,3,True,Sometimes,24.0,73,3.34,Neutral,Neutral
+21,Female,Undergraduate,Instagram,6.4,1.4,Smartphone,7.8,2,True,Sometimes,15.0,86,2.93,Beneficial,Beneficial
+22,Female,Postgraduate,Snapchat,5.3,1.9,Smartphone,6.4,3,False,Frequently,11.0,74,3.72,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,11.5,2.7,Smartphone,5.0,1,True,Rarely,33.0,54,2.64,Negative,Negative
+18,Male,Undergraduate,YouTube,7.5,2.6,Smartphone,6.8,3,True,Always,19.0,70,3.76,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,4.9,1.2,Smartphone,6.2,2,True,Frequently,18.0,82,3.31,Beneficial,Beneficial
+19,Prefer not to say,Undergraduate,TikTok,4.7,1.9,Smartphone,5.7,1,True,Never,9.0,86,3.45,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,6.8,2.0,Smartphone,6.1,2,True,Sometimes,19.0,79,3.5,Beneficial,Beneficial
+17,Male,High School,TikTok,4.1,2.6,Laptop/PC,6.8,3,False,Frequently,15.0,88,3.43,Beneficial,Beneficial
+17,Male,High School,Instagram,5.4,2.1,Smartphone,6.7,1,True,Always,9.0,82,3.4,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,3.1,2.7,Smartphone,7.7,4,False,Sometimes,10.0,78,3.91,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,14.0,1.8,Smartphone,4.2,1,True,Frequently,32.0,44,2.41,Negative,Negative
+18,Male,Undergraduate,YouTube,2.9,1.1,Smartphone,8.2,4,True,Sometimes,12.0,98,3.13,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,2.5,3.0,Smartphone,7.6,4,True,Always,10.0,98,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,X (Twitter),1.9,2.0,Smartphone,6.9,3,True,Sometimes,7.0,84,3.53,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,3.7,2.8,Smartphone,6.1,2,False,Frequently,17.0,77,3.44,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,14.0,0.7,Smartphone,3.1,1,True,Sometimes,25.0,49,2.34,Negative,Negative
+18,Female,Undergraduate,Instagram,2.8,1.6,Smartphone,6.9,3,False,Sometimes,7.0,87,3.82,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,4.3,2.1,Smartphone,6.8,2,False,Sometimes,11.0,82,3.55,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,2.5,2.0,Smartphone,6.8,3,False,Rarely,5.0,80,3.47,Beneficial,Beneficial
+19,Prefer not to say,Undergraduate,Instagram,3.1,2.3,Smartphone,9.0,5,True,Frequently,13.0,78,4.0,Beneficial,Beneficial
+16,Male,High School,YouTube,6.8,0.6,Smartphone,8.3,2,True,Sometimes,15.0,74,3.61,Beneficial,Beneficial
+23,Female,Undergraduate,TikTok,4.0,2.1,Smartphone,7.0,3,True,Rarely,12.0,88,3.54,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,4.6,3.0,Smartphone,6.1,2,False,Sometimes,10.0,86,3.71,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.6,1.6,Smartphone,6.7,3,True,Sometimes,14.0,84,3.74,Beneficial,Beneficial
+15,Female,High School,YouTube,1.0,1.1,Smartphone,8.2,4,True,Rarely,0.0,98,3.64,Beneficial,Beneficial
+17,Female,High School,Reddit,4.9,0.8,Smartphone,6.7,3,False,Sometimes,23.0,82,3.19,Beneficial,Neutral
+18,Female,Undergraduate,Instagram,2.5,1.0,Smartphone,7.3,3,False,Sometimes,8.0,98,3.69,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,5.7,1.7,Smartphone,6.6,2,True,Sometimes,16.0,89,3.4292819932049827,Beneficial,Beneficial
+20,Female,Undergraduate,LinkedIn,2.8,1.2,Smartphone,5.7,2,True,Frequently,19.0,81,3.08,Beneficial,Beneficial
+15,Male,High School,Instagram,3.4,3.0,Smartphone,6.2,3,False,Sometimes,15.0,86,3.64,Beneficial,Beneficial
+17,Male,High School,YouTube,3.1,2.1,Smartphone,7.7,3,True,Rarely,1.0,93,3.93,Beneficial,Beneficial
+23,Male,Postgraduate,TikTok,7.1,2.0,Laptop/PC,6.6,2,False,Frequently,17.0,80,3.68,Beneficial,Beneficial
+18,Male,Undergraduate,LinkedIn,4.7,2.7,Laptop/PC,7.0,2,True,Frequently,18.0,86,3.47,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,5.4,0.8,Smartphone,5.4,2,True,Sometimes,22.0,66,3.06,Neutral,Neutral
+18,Male,Undergraduate,TikTok,3.2,0.7,Laptop/PC,7.7,5,True,Sometimes,3.0,96,3.66,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,6.2,1.4,Laptop/PC,5.5,1,True,Always,15.0,78,3.16,Beneficial,Beneficial
+18,Female,High School,LinkedIn,7.5,0.7,Tablet,6.1,2,True,Always,13.512123933542883,77,2.86,Beneficial,Beneficial
+15,Female,High School,Snapchat,4.3,2.3,Smartphone,7.4,3,False,Frequently,18.0,77,3.97,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,4.7,1.5,Smartphone,7.5,3,False,Sometimes,7.0,93,3.36,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,4.5,1.8,Smartphone,7.6,3,False,Always,12.0,83,3.65,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,4.2,2.4,Smartphone,6.4,2,True,Frequently,14.0,86,3.35,Beneficial,Beneficial
+17,Female,High School,YouTube,3.2,2.6,Laptop/PC,8.9,4,True,Frequently,7.0,98,4.0,Beneficial,Beneficial
+16,Male,High School,TikTok,6.8,1.9,Smartphone,5.5,1,True,Always,16.0,69,2.61,Neutral,Neutral
+16,Prefer not to say,High School,Instagram,3.1,0.9,Smartphone,6.6,2,False,Sometimes,9.0,80,3.45,Beneficial,Beneficial
+17,Female,High School,Instagram,3.3,1.7,Smartphone,6.2,4,False,Sometimes,13.0,86,3.82,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.0,0.5,Smartphone,6.7,3,False,Sometimes,10.0,72,3.46,Beneficial,Beneficial
+19,Male,Undergraduate,X (Twitter),3.9,2.1,Laptop/PC,6.8,3,False,Rarely,9.0,94,3.81,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,9.5,0.9,Smartphone,5.3,1,True,Always,27.0,68,3.14,Neutral,Neutral
+15,Female,High School,Instagram,4.2,2.6,Smartphone,5.5,2,True,Sometimes,17.0,68,3.57,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,2.8,1.1,Smartphone,7.1,3,True,Sometimes,10.0,85,3.77,Beneficial,Beneficial
+17,Male,High School,Reddit,4.5,2.5,Laptop/PC,6.3,3,True,Sometimes,4.0,81,3.53,Beneficial,Beneficial
+16,Female,High School,TikTok,10.2,2.3,Smartphone,5.5,1,True,Frequently,19.0,55,2.81,Neutral,Neutral
+19,Female,Undergraduate,YouTube,4.5,2.7,Smartphone,7.0,3,False,Frequently,16.0,82,3.67,Beneficial,Beneficial
+17,Female,High School,TikTok,5.5,2.0,Smartphone,6.9,3,True,Sometimes,6.0,76,3.67,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,8.4,2.0,Smartphone,6.1,1,False,Sometimes,24.0,69,3.04,Neutral,Neutral
+23,Female,Postgraduate,X (Twitter),6.5,1.8,Smartphone,7.4,4,True,Sometimes,12.0,76,3.23,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,5.7,0.3,Smartphone,6.7,3,True,Frequently,12.0,76,3.5,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,3.9,1.4,Smartphone,6.9,2,False,Frequently,7.0,90,3.44,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,2.8,3.2,Tablet,8.1,3,True,Frequently,9.0,80,4.0,Beneficial,Beneficial
+17,Female,High School,Instagram,2.6,0.5,Smartphone,9.2,4,False,Rarely,9.0,97,4.0,Beneficial,Beneficial
+17,Female,High School,YouTube,4.5,2.2,Laptop/PC,8.0,5,False,Frequently,16.0,91,3.66,Beneficial,Beneficial
+17,Male,High School,TikTok,2.8,2.5,Smartphone,7.8,3,False,Always,7.0,93,3.96,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,2.3,1.4,Smartphone,7.3,3,True,Frequently,8.0,90,3.88,Beneficial,Beneficial
+18,Female,Undergraduate,LinkedIn,4.2,2.8,Smartphone,8.1,3,True,Always,12.0,82,3.53,Beneficial,Beneficial
+22,Female,Postgraduate,Instagram,5.7,1.9,Smartphone,6.3,2,True,Always,16.0,70,3.43,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,8.9,2.1,Smartphone,5.8,2,True,Frequently,27.0,63,3.26,Neutral,Neutral
+23,Male,Postgraduate,YouTube,4.0,0.8,Laptop/PC,8.3,2,False,Always,6.0,95,3.61,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,9.4,2.7,Smartphone,4.2,1,True,Sometimes,23.0,60,2.67,Neutral,Neutral
+18,Female,Undergraduate,Instagram,8.0,3.2,Smartphone,6.2,1,True,Rarely,20.0,76,3.25,Beneficial,Neutral
+19,Male,Undergraduate,Instagram,7.5,2.4,Smartphone,5.9,2,True,Sometimes,20.0,72,3.08,Neutral,Neutral
+15,Female,High School,YouTube,7.7,2.2,Smartphone,6.2,1,True,Always,18.0,68,3.28,Beneficial,Beneficial
+17,Female,High School,Instagram,5.1,1.1,Smartphone,5.7,3,True,Sometimes,17.0,74,3.66,Beneficial,Beneficial
+20,Female,Undergraduate,Snapchat,8.5,2.1,Smartphone,5.4,2,True,Frequently,10.0,78,2.89,Beneficial,Beneficial
+19,Female,Undergraduate,TikTok,6.4,2.1,Smartphone,5.8,2,True,Frequently,8.0,73,3.49,Beneficial,Beneficial
+18,Female,Undergraduate,X (Twitter),2.6,1.1,Smartphone,7.6,3,True,Frequently,1.0,86,3.87,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,6.9,3.4,Smartphone,6.0,2,True,Sometimes,23.0,79,3.2,Beneficial,Neutral
+18,Male,Undergraduate,Instagram,8.6,1.4,Smartphone,6.5,1,True,Sometimes,25.0,64,2.71,Neutral,Neutral
+22,Female,Postgraduate,Snapchat,3.8,1.5,Smartphone,7.0,3,True,Rarely,15.0,83,3.19,Beneficial,Beneficial
+20,Female,Undergraduate,Snapchat,10.6,1.8,Smartphone,4.4,1,True,Sometimes,18.0,57,3.16,Neutral,Neutral
+18,Female,Undergraduate,Reddit,3.3,1.4,Laptop/PC,6.7,2,False,Frequently,2.0,90,3.5,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,5.4,2.2,Smartphone,7.6,3,True,Never,15.0,83,3.32,Beneficial,Beneficial
+17,Female,High School,Instagram,8.3,1.9,Smartphone,5.8,1,False,Frequently,14.0,69,3.35,Beneficial,Beneficial
+18,Male,High School,YouTube,3.2,1.9,Laptop/PC,6.8,3,True,Sometimes,13.0,94,3.66,Beneficial,Beneficial
+17,Female,High School,Instagram,1.8,1.3,Smartphone,8.2,4,False,Frequently,4.0,98,3.88,Beneficial,Beneficial
+15,Female,High School,Instagram,6.6,0.7,Smartphone,7.1,2,True,Rarely,11.0,70,3.4292819932049827,Beneficial,Beneficial
+18,Female,High School,Snapchat,3.1,1.8,Smartphone,6.8,3,False,Rarely,10.0,89,3.78,Beneficial,Beneficial
+20,Male,Undergraduate,Instagram,3.6,2.5,Smartphone,6.3,2,False,Frequently,10.0,78,3.81,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,5.0,0.9,Smartphone,5.6,3,True,Frequently,16.0,80,3.29,Beneficial,Beneficial
+16,Male,High School,YouTube,5.1,1.4,Smartphone,6.5,2,True,Frequently,7.0,80,3.4,Beneficial,Beneficial
+17,Male,High School,TikTok,2.4,1.0,Smartphone,8.6,4,True,Frequently,10.0,85,3.35,Beneficial,Beneficial
+19,Male,Undergraduate,Instagram,12.2,1.5,Laptop/PC,4.0,1,True,Frequently,28.0,52,2.97,Neutral,Negative
+20,Male,High School,Instagram,3.8,3.2,Smartphone,7.7,3,False,Rarely,11.0,88,3.62,Beneficial,Beneficial
+19,Female,High School,TikTok,7.6,1.2,Smartphone,4.5,1,False,Sometimes,20.0,59,3.21,Neutral,Neutral
+17,Female,High School,Instagram,1.9,2.6,Laptop/PC,8.5,4,True,Rarely,13.512123933542883,97,3.96,Beneficial,Beneficial
+16,Female,High School,Instagram,2.4,2.1,Smartphone,6.2,2,False,Frequently,12.0,91,3.5,Beneficial,Beneficial
+20,Male,High School,TikTok,4.6,0.6,Smartphone,7.4,3,False,Sometimes,14.0,89,3.73,Beneficial,Beneficial
+21,Male,Undergraduate,Snapchat,14.0,0.0,Smartphone,3.1,1,True,Rarely,35.0,38,2.58,Negative,Negative
+21,Female,Undergraduate,Snapchat,4.3,1.0,Smartphone,7.2,3,True,Sometimes,12.0,87,3.66,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,5.1,1.5,Smartphone,6.8,3,True,Frequently,4.0,96,3.75,Beneficial,Beneficial
+17,Female,High School,YouTube,4.2,1.8,Smartphone,6.5,3,False,Frequently,11.0,80,4.0,Beneficial,Beneficial
+22,Male,Undergraduate,Instagram,5.3,2.0,Smartphone,5.8,2,True,Frequently,13.0,76,3.38,Beneficial,Beneficial
+17,Male,High School,Reddit,4.5,3.2,Laptop/PC,6.5,2,False,Frequently,10.0,80,3.46,Beneficial,Beneficial
+20,Male,Undergraduate,YouTube,9.4,1.9,Smartphone,5.0,1,True,Always,28.0,46,2.48,Negative,Negative
+19,Female,Undergraduate,X (Twitter),6.2,0.3,Tablet,8.4,3,False,Frequently,11.0,88,3.51,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,7.8,1.7,Smartphone,5.3,1,True,Always,23.0,68,3.65,Neutral,Neutral
+18,Male,Undergraduate,YouTube,2.0,2.6,Smartphone,8.5,2,False,Sometimes,7.0,97,4.0,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,5.5,2.2,Smartphone,5.9,2,True,Sometimes,16.0,70,2.8,Neutral,Beneficial
+15,Female,High School,Reddit,1.4,1.7,Smartphone,7.8,3,False,Frequently,8.0,96,3.6,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,2.0,1.4,Smartphone,7.3,4,True,Always,16.0,95,3.75,Beneficial,Beneficial
+17,Male,High School,YouTube,4.5,2.5,Smartphone,7.0,2,True,Sometimes,4.0,85,3.71,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,2.5,0.9,Smartphone,8.0,4,True,Sometimes,13.0,94,3.51,Beneficial,Beneficial
+17,Female,High School,YouTube,3.3,1.2,Laptop/PC,9.2,3,True,Frequently,12.0,94,3.87,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,3.1,1.1,Smartphone,7.6,3,False,Frequently,3.0,90,3.46,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,8.2,0.8,Laptop/PC,5.5,1,True,Rarely,19.0,60,2.96,Neutral,Neutral
+17,Male,High School,Instagram,14.0,1.1,Smartphone,4.3,1,False,Frequently,32.0,38,2.38,Negative,Negative
+15,Female,High School,YouTube,7.7,2.8,Smartphone,6.0,2,True,Frequently,17.0,72,3.59,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,4.0,1.1,Laptop/PC,8.4,3,False,Frequently,5.0,89,3.88,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,6.0,1.3,Smartphone,6.6,2,True,Always,9.0,95,3.65,Beneficial,Beneficial
+18,Male,Undergraduate,Reddit,6.9,1.9,Smartphone,4.7,1,True,Frequently,14.0,70,3.14,Beneficial,Beneficial
+17,Female,High School,Instagram,3.8,0.5,Smartphone,7.9,3,False,Frequently,7.0,89,3.69,Beneficial,Beneficial
+22,Female,Postgraduate,YouTube,2.9,2.2,Smartphone,7.2,3,False,Frequently,8.0,93,4.0,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,2.4,0.0,Smartphone,8.6,2,False,Sometimes,7.0,98,3.54,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,10.6,1.9,Smartphone,4.9,1,True,Always,26.0,56,2.4,Negative,Neutral
+19,Male,Undergraduate,Snapchat,3.7,1.8,Smartphone,7.9,4,True,Frequently,10.0,95,3.36,Beneficial,Beneficial
+17,Male,High School,Reddit,2.7,0.4,Smartphone,7.8,3,False,Sometimes,7.0,92,3.4292819932049827,Beneficial,Beneficial
+21,Non-Binary,Undergraduate,TikTok,4.3,2.4,Smartphone,7.0,4,False,Rarely,13.512123933542883,87,3.61,Beneficial,Beneficial
+17,Female,High School,Reddit,6.4,1.0,Smartphone,7.0,2,True,Sometimes,15.0,74,3.16,Beneficial,Beneficial
+20,Female,Undergraduate,Snapchat,4.2,1.8,Smartphone,7.3,3,True,Rarely,14.0,86,3.14,Beneficial,Beneficial
+19,Prefer not to say,Undergraduate,YouTube,5.3,0.4,Smartphone,5.5,2,False,Sometimes,14.0,82,2.98,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,10.7,1.0,Smartphone,4.5,1,True,Sometimes,23.0,62,3.18,Neutral,Neutral
+21,Female,Undergraduate,YouTube,1.9,2.3,Smartphone,7.0,4,False,Frequently,11.0,88,3.72,Beneficial,Beneficial
+19,Male,Undergraduate,YouTube,9.8,2.8,Laptop/PC,4.8,1,True,Sometimes,31.0,62,2.74,Neutral,Negative
+15,Female,High School,YouTube,6.5,0.7,Smartphone,6.8,2,True,Sometimes,14.0,76,3.72,Beneficial,Beneficial
+16,Male,High School,YouTube,7.5,2.3,Smartphone,6.4,1,True,Frequently,22.0,66,3.34,Neutral,Neutral
+22,Female,Postgraduate,TikTok,3.6,1.9,Laptop/PC,6.8,2,False,Sometimes,13.0,89,3.73,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,6.7,2.3,Smartphone,6.5,2,True,Sometimes,20.0,76,3.29,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,7.1,2.3,Smartphone,6.1,1,True,Sometimes,20.0,73,3.4292819932049827,Neutral,Beneficial
+20,Male,Undergraduate,YouTube,5.8,2.1,Laptop/PC,7.6,3,False,Always,20.0,76,3.4,Beneficial,Beneficial
+22,Female,Postgraduate,Reddit,5.4,0.6,Smartphone,5.5,2,True,Sometimes,19.0,66,3.17,Neutral,Beneficial
+16,Male,High School,TikTok,2.3,2.2,Smartphone,7.2,4,False,Sometimes,7.0,86,3.28,Beneficial,Beneficial
+16,Male,High School,YouTube,6.7,1.3,Smartphone,5.7,2,True,Sometimes,12.0,77,3.13,Beneficial,Beneficial
+19,Male,Undergraduate,TikTok,5.6,1.0,Smartphone,7.1,3,True,Sometimes,12.0,91,3.67,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,1.7,2.0,Smartphone,7.6,2,True,Sometimes,10.0,93,3.45,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,7.6,3.2,Smartphone,6.7,2,True,Sometimes,24.0,69,3.09,Neutral,Neutral
+16,Female,High School,Instagram,3.0,2.0,Smartphone,7.2,2,True,Always,10.0,88,3.98,Beneficial,Beneficial
+16,Non-Binary,High School,Snapchat,7.8,0.3,Smartphone,4.2,1,True,Rarely,27.0,64,3.27,Neutral,Neutral
+20,Female,Undergraduate,YouTube,6.9,2.5,Smartphone,7.2,1,True,Sometimes,18.0,79,3.22,Beneficial,Beneficial
+16,Female,High School,Snapchat,4.5,2.4,Smartphone,6.5,2,False,Never,5.0,80,3.56,Beneficial,Beneficial
+18,Female,Undergraduate,Snapchat,4.6,3.0,Smartphone,7.4,2,False,Frequently,11.0,87,3.76,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,3.9,1.1,Smartphone,7.1,3,False,Sometimes,10.0,76,3.5,Beneficial,Beneficial
+21,Male,Undergraduate,TikTok,2.8,0.8,Smartphone,7.1,4,False,Always,14.0,94,3.8,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,8.1,2.4,Smartphone,5.7,2,True,Rarely,27.0,64,3.44,Neutral,Neutral
+18,Male,High School,TikTok,3.4,0.4,Smartphone,7.3,2,False,Rarely,7.0,92,3.61,Beneficial,Beneficial
+17,Male,High School,YouTube,7.3,1.6,Smartphone,4.9,1,True,Sometimes,17.0,65,3.03,Neutral,Neutral
+17,Male,High School,Instagram,5.7,2.0,Smartphone,6.5,2,True,Never,18.0,84,3.06,Beneficial,Beneficial
+19,Female,Undergraduate,LinkedIn,2.3,1.2,Smartphone,7.2,3,False,Always,5.0,98,4.0,Beneficial,Beneficial
+17,Female,High School,Instagram,5.0,2.3,Smartphone,5.2,2,True,Sometimes,25.0,74,2.75,Neutral,Neutral
+19,Non-Binary,Undergraduate,Instagram,6.3,2.3,Smartphone,6.7,2,True,Sometimes,26.0,74,3.79,Beneficial,Beneficial
+17,Male,High School,TikTok,3.6,1.1,Smartphone,6.0,2,True,Frequently,21.0,76,3.35,Beneficial,Beneficial
+20,Female,Undergraduate,TikTok,1.1,2.7,Smartphone,7.6,4,False,Sometimes,4.0,90,4.0,Beneficial,Beneficial
+20,Female,Undergraduate,YouTube,5.1,0.7,Smartphone,6.7,3,True,Frequently,8.0,82,3.74,Beneficial,Beneficial
+18,Female,Undergraduate,YouTube,5.9,1.9,Smartphone,5.1,1,False,Sometimes,23.0,77,3.88,Beneficial,Beneficial
+18,Male,High School,Instagram,2.2,1.0,Smartphone,7.4,4,False,Frequently,10.0,83,3.73,Beneficial,Beneficial
+18,Male,Undergraduate,Snapchat,1.4,3.0,Smartphone,10.4,5,False,Sometimes,0.0,98,4.0,Beneficial,Beneficial
+21,Female,Undergraduate,Instagram,4.0,1.7,Smartphone,7.8,3,True,Rarely,13.0,84,3.2,Beneficial,Beneficial
+18,Male,Undergraduate,YouTube,2.6,2.2,Smartphone,7.7,3,True,Rarely,10.0,83,3.95,Beneficial,Beneficial
+23,Female,Postgraduate,TikTok,3.7,3.4,Smartphone,5.9,2,True,Sometimes,14.0,83,3.84,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,6.0,1.5,Smartphone,7.8,3,True,Sometimes,13.0,81,3.44,Beneficial,Beneficial
+17,Male,High School,YouTube,2.3,2.9,Smartphone,7.2,3,False,Rarely,12.0,78,3.65,Beneficial,Beneficial
+17,Female,High School,Reddit,8.3,1.4,Smartphone,4.4,1,True,Frequently,8.0,74,2.66,Beneficial,Beneficial
+19,Male,Undergraduate,X (Twitter),9.2,3.1,Laptop/PC,6.0,2,True,Sometimes,13.512123933542883,60,3.64,Neutral,Beneficial
+19,Male,Undergraduate,Reddit,2.3,1.7,Tablet,7.7,2,True,Sometimes,10.0,89,3.49,Beneficial,Beneficial
+19,Male,High School,YouTube,3.7,1.2,Laptop/PC,7.9,2,True,Rarely,5.0,94,3.6,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,2.5,1.2,Smartphone,6.7,4,False,Never,15.0,76,3.49,Beneficial,Beneficial
+17,Male,High School,Instagram,3.6,1.9,Smartphone,7.0,3,True,Frequently,6.0,91,3.51,Beneficial,Beneficial
+19,Female,Undergraduate,YouTube,5.0,0.7,Smartphone,7.1,3,False,Always,10.0,86,3.25,Beneficial,Beneficial
+18,Female,Undergraduate,TikTok,11.4,2.1,Smartphone,3.5,1,True,Sometimes,29.0,40,2.93,Negative,Negative
+18,Female,Undergraduate,TikTok,5.2,1.3,Smartphone,7.8,3,False,Never,12.0,74,3.94,Beneficial,Beneficial
+17,Male,High School,YouTube,3.7,1.8,Smartphone,8.0,4,False,Frequently,5.0,88,3.36,Beneficial,Beneficial
+20,Male,Undergraduate,TikTok,9.6,2.6,Smartphone,7.4,2,True,Never,12.0,81,3.35,Beneficial,Beneficial
+18,Female,Undergraduate,X (Twitter),5.4,1.8,Smartphone,7.3,3,True,Always,12.0,91,3.49,Beneficial,Beneficial
+21,Male,Undergraduate,Instagram,3.6,2.9,Laptop/PC,7.4,2,False,Frequently,8.0,81,3.49,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,2.7,1.8,Smartphone,7.3,4,False,Frequently,10.0,85,3.85,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,4.7,1.1,Smartphone,5.9,2,True,Always,10.0,75,2.93,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,4.7,2.8,Smartphone,7.2,3,False,Rarely,11.0,82,3.57,Beneficial,Beneficial
+21,Female,High School,Instagram,2.1,1.8,Smartphone,8.4,4,True,Frequently,5.0,98,3.64,Beneficial,Beneficial
+16,Female,High School,Instagram,7.1,2.6,Smartphone,5.8,1,True,Sometimes,9.0,64,2.97,Beneficial,Beneficial
+19,Female,Undergraduate,X (Twitter),2.5,2.6,Smartphone,7.6,4,True,Never,11.0,96,3.69,Beneficial,Beneficial
+21,Female,High School,YouTube,1.5,1.4,Smartphone,7.7,4,True,Rarely,7.0,89,4.0,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,9.8,1.8,Tablet,5.9,1,True,Frequently,14.0,63,3.43,Beneficial,Beneficial
+21,Female,Undergraduate,Instagram,4.3,0.0,Smartphone,9.2,2,False,Rarely,4.0,98,3.83,Beneficial,Beneficial
+16,Female,High School,TikTok,3.2,2.5,Smartphone,7.8,3,False,Never,10.0,85,3.86,Beneficial,Beneficial
+18,Male,Undergraduate,TikTok,3.8,1.5,Smartphone,7.2,3,False,Frequently,11.0,81,3.48,Beneficial,Beneficial
+16,Male,High School,Instagram,2.7,1.2,Smartphone,8.5,3,False,Sometimes,10.0,83,3.92,Beneficial,Beneficial
+17,Male,High School,TikTok,4.9,1.6,Smartphone,6.7,2,False,Sometimes,18.0,80,3.07,Beneficial,Beneficial
+17,Female,High School,X (Twitter),6.9,1.2,Smartphone,6.3,2,False,Rarely,17.0,68,3.41,Beneficial,Beneficial
+19,Female,Undergraduate,Snapchat,9.6,0.5,Smartphone,5.4,2,True,Sometimes,29.0,49,3.19,Neutral,Neutral
+16,Female,High School,Instagram,2.9,2.2,Smartphone,8.5,3,False,Sometimes,4.0,91,3.72,Beneficial,Beneficial
+17,Female,High School,TikTok,5.8,0.9,Smartphone,7.1,3,True,Frequently,21.0,71,3.31,Neutral,Beneficial
+17,Female,High School,Instagram,2.2,1.4,Smartphone,5.9,3,False,Rarely,8.0,92,3.58,Beneficial,Beneficial
+24,Male,Postgraduate,TikTok,5.3,2.0,Laptop/PC,6.1,1,False,Frequently,11.0,85,3.63,Beneficial,Beneficial
+19,Female,Undergraduate,Instagram,4.3,1.1,Smartphone,7.1,3,True,Always,14.0,79,3.55,Beneficial,Beneficial
+15,Non-Binary,High School,Instagram,5.9,1.6,Smartphone,7.0,4,False,Rarely,7.0,83,3.78,Beneficial,Beneficial
+15,Male,High School,X (Twitter),8.4,1.7,Smartphone,5.4,1,True,Always,14.0,74,3.0,Beneficial,Beneficial
+17,Female,High School,Snapchat,8.0,2.0,Smartphone,7.7,2,True,Sometimes,14.0,80,3.22,Beneficial,Beneficial
+21,Non-Binary,Undergraduate,Instagram,4.2,2.7,Smartphone,6.6,3,True,Sometimes,17.0,76,3.44,Beneficial,Beneficial
+22,Male,Postgraduate,TikTok,11.3,0.8,Smartphone,5.5,1,True,Frequently,20.0,55,3.04,Neutral,Neutral
+19,Male,Undergraduate,TikTok,1.4,1.4,Smartphone,7.9,3,False,Always,11.0,89,4.0,Beneficial,Beneficial
+19,Male,High School,TikTok,12.1,1.6,Smartphone,3.6,1,False,Frequently,33.0,40,2.18,Negative,Negative
+22,Male,Undergraduate,Instagram,3.8,2.1,Smartphone,6.7,4,False,Frequently,11.0,74,3.58,Beneficial,Beneficial
+19,Male,Undergraduate,Snapchat,4.5,1.3,Smartphone,7.6,3,False,Rarely,19.0,87,3.14,Beneficial,Beneficial
+18,Female,Undergraduate,Instagram,3.2,1.0,Smartphone,8.2,5,False,Sometimes,16.0,85,3.31,Beneficial,Beneficial
+23,Male,Postgraduate,TikTok,3.1,1.3,Laptop/PC,6.6,3,True,Sometimes,18.0,89,3.29,Beneficial,Beneficial
+18,Male,Undergraduate,Instagram,6.6,1.7,Smartphone,5.6,2,True,Sometimes,9.0,79,2.89,Beneficial,Beneficial
+21,Female,Undergraduate,TikTok,2.6,1.1,Smartphone,6.5,3,False,Frequently,9.0,82,3.72,Beneficial,Beneficial
+18,Male,High School,Instagram,6.2,1.1,Smartphone,6.4,3,True,Frequently,17.0,78,2.96,Beneficial,Beneficial
+17,Male,High School,TikTok,4.0,1.4,Laptop/PC,6.0,3,True,Sometimes,18.0,81,3.32,Beneficial,Beneficial
+20,Female,Undergraduate,Instagram,2.6,1.6,Laptop/PC,7.3,3,False,Frequently,4.0,87,3.73,Beneficial,Beneficial
+19,Male,Undergraduate,X (Twitter),6.5,1.4,Smartphone,6.2,2,True,Sometimes,20.0,77,3.37,Beneficial,Beneficial
